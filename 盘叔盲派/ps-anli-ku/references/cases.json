@@ -1,0 +1,6234 @@
+{
+ "meta": {
+  "version": "v1.9",
+  "generated": "2026-11-14",
+  "total": 455,
+  "systems": {
+   "ps-anli-ku": "267 条书内例（索引级，正文未随包）",
+   "S-GD": "扫描集第 1–5 单元 188 例（第四、五单元 v1.9 补，其中 2 例四柱待补）"
+  },
+  "note": "索引层只做「定位」：命中后回 source 指向的文件取全文；ps-anli-ku 正文未随包，见包根《引用未随包清单.md》。命例全部为事后追认，只作佐证／类比，不作准确率依据。"
+ },
+ "cases": [
+  {
+   "id": "GD0",
+   "system": "ps-anli-ku",
+   "book_no": 0,
+   "sex": "",
+   "pillars": "",
+   "summary": "（未编号·希腊奥纳西斯造）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD1",
+   "system": "ps-anli-ku",
+   "book_no": 1,
+   "sex": "",
+   "pillars": "",
+   "summary": "婚前破身、妻多外情之造",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD2",
+   "system": "ps-anli-ku",
+   "book_no": 2,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱用印、亥年结婚之造",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD3",
+   "system": "ps-anli-ku",
+   "book_no": 3,
+   "sex": "",
+   "pillars": "",
+   "summary": "某师师长（庚申运最好、辛巳年亡）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD4",
+   "system": "ps-anli-ku",
+   "book_no": 4,
+   "sex": "",
+   "pillars": "",
+   "summary": "有禄不能从、车祸死之造",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD5",
+   "system": "ps-anli-ku",
+   "book_no": 5,
+   "sex": "",
+   "pillars": "",
+   "summary": "硕士生（庚寅运失业、戊寅年牵连官非）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD6",
+   "system": "ps-anli-ku",
+   "book_no": 6,
+   "sex": "",
+   "pillars": "",
+   "summary": "（未编号）活木怕金、事坏在妻之造",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD7",
+   "system": "ps-anli-ku",
+   "book_no": 7,
+   "sex": "",
+   "pillars": "",
+   "summary": "大企业家（甲午运发大财、庚午年火灾）",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD8",
+   "system": "ps-anli-ku",
+   "book_no": 8,
+   "sex": "",
+   "pillars": "",
+   "summary": "国企大企业家（先天干生支）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD9",
+   "system": "ps-anli-ku",
+   "book_no": 9,
+   "sex": "",
+   "pillars": "",
+   "summary": "双妻·老少配之造",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD10",
+   "system": "ps-anli-ku",
+   "book_no": 10,
+   "sex": "",
+   "pillars": "",
+   "summary": "公检法之官（戊寅年得官）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD11",
+   "system": "ps-anli-ku",
+   "book_no": 11,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱、辰不帮戊土（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD12",
+   "system": "ps-anli-ku",
+   "book_no": 12,
+   "sex": "",
+   "pillars": "",
+   "summary": "天津市某区长（戊土喜火得禄）",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD13",
+   "system": "ps-anli-ku",
+   "book_no": 13,
+   "sex": "",
+   "pillars": "",
+   "summary": "遗腹子（申官入丑墓）",
+   "tags": [
+    "官贵事业",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD14",
+   "system": "ps-anli-ku",
+   "book_no": 14,
+   "sex": "",
+   "pillars": "",
+   "summary": "青年丧母（卯辰穿克）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD15",
+   "system": "ps-anli-ku",
+   "book_no": 15,
+   "sex": "",
+   "pillars": "",
+   "summary": "大企业家（丙午运顶峰、丁未运破财）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD16",
+   "system": "ps-anli-ku",
+   "book_no": 16,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱官旺、丁丑年发财之造",
+   "tags": [
+    "财富",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD17",
+   "system": "ps-anli-ku",
+   "book_no": 17,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·丈夫外出、第三者插足",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD18",
+   "system": "ps-anli-ku",
+   "book_no": 18,
+   "sex": "",
+   "pillars": "",
+   "summary": "看父亲（伯叔被害、父健在）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD19",
+   "system": "ps-anli-ku",
+   "book_no": 19,
+   "sex": "",
+   "pillars": "",
+   "summary": "处级·报社主编（己卯年办刊受挫）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD20",
+   "system": "ps-anli-ku",
+   "book_no": 20,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱财多、双妻一情人",
+   "tags": [
+    "婚姻",
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD21",
+   "system": "ps-anli-ku",
+   "book_no": 21,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·戊午年丧夫、只同居不结婚",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD22",
+   "system": "ps-anli-ku",
+   "book_no": 22,
+   "sex": "",
+   "pillars": "",
+   "summary": "闫老师造（不当官就算命打卦）",
+   "tags": [
+    "官贵事业",
+    "学业文化",
+    "特异玄学"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD23",
+   "system": "ps-anli-ku",
+   "book_no": 23,
+   "sex": "",
+   "pillars": "",
+   "summary": "某公司老板（无子、替人管钱）",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD24",
+   "system": "ps-anli-ku",
+   "book_no": 24,
+   "sex": "",
+   "pillars": "",
+   "summary": "因姐姐事坐牢、庚辰出狱",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD25",
+   "system": "ps-anli-ku",
+   "book_no": 25,
+   "sex": "",
+   "pillars": "",
+   "summary": "刘晓庆造（庚寅运飞黄腾达）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD26",
+   "system": "ps-anli-ku",
+   "book_no": 26,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·甲寅订婚、乙卯结婚",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD27",
+   "system": "ps-anli-ku",
+   "book_no": 27,
+   "sex": "",
+   "pillars": "",
+   "summary": "民政厅处长→盲校校长（清官）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD28",
+   "system": "ps-anli-ku",
+   "book_no": 28,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·有文化、父较差（简例）",
+   "tags": [
+    "学业文化",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD29",
+   "system": "ps-anli-ku",
+   "book_no": 29,
+   "sex": "",
+   "pillars": "",
+   "summary": "少读书早为兵、父正厅级、有牢狱",
+   "tags": [
+    "学业文化",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD30",
+   "system": "ps-anli-ku",
+   "book_no": 30,
+   "sex": "",
+   "pillars": "",
+   "summary": "不贵之造（丙子运戊寅年最差）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD31",
+   "system": "ps-anli-ku",
+   "book_no": 31,
+   "sex": "",
+   "pillars": "",
+   "summary": "未编号 遗腹子（子杀为父）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD32",
+   "system": "ps-anli-ku",
+   "book_no": 32,
+   "sex": "",
+   "pillars": "",
+   "summary": "遗腹子（申官入丑墓）",
+   "tags": [
+    "官贵事业",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD33",
+   "system": "ps-anli-ku",
+   "book_no": 33,
+   "sex": "",
+   "pillars": "",
+   "summary": "北洋政府副总统（戊寅运壬子年）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD34",
+   "system": "ps-anli-ku",
+   "book_no": 34,
+   "sex": "",
+   "pillars": "",
+   "summary": "义武双全（硬杀有财生）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD35",
+   "system": "ps-anli-ku",
+   "book_no": 35,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官去官格（登总统宝座）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD36",
+   "system": "ps-anli-ku",
+   "book_no": 36,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·从强用最旺者主贵",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD37",
+   "system": "ps-anli-ku",
+   "book_no": 37,
+   "sex": "",
+   "pillars": "",
+   "summary": "两子送终（己巳时；丁巳时则无子）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD38",
+   "system": "ps-anli-ku",
+   "book_no": 38,
+   "sex": "",
+   "pillars": "",
+   "summary": "冷述博（十个兄弟姐妹）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD39",
+   "system": "ps-anli-ku",
+   "book_no": 39,
+   "sex": "",
+   "pillars": "",
+   "summary": "孙祥绪（兄弟五个、早子难存）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD40",
+   "system": "ps-anli-ku",
+   "book_no": 40,
+   "sex": "",
+   "pillars": "",
+   "summary": "堂兄去世、隐伏酉杀（官鬼）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD41",
+   "system": "ps-anli-ku",
+   "book_no": 41,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱用印、辛未年发财、未能当兵",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD42",
+   "system": "ps-anli-ku",
+   "book_no": 42,
+   "sex": "",
+   "pillars": "",
+   "summary": "壬戌年落榜、癸亥年考入、辛亥年几夭折",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD43",
+   "system": "ps-anli-ku",
+   "book_no": 43,
+   "sex": "",
+   "pillars": "",
+   "summary": "姐姐外嫁（马星逢冲）",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD44",
+   "system": "ps-anli-ku",
+   "book_no": 44,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·父死于庚辰年（绝处逢冲破）",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD45",
+   "system": "ps-anli-ku",
+   "book_no": 45,
+   "sex": "",
+   "pillars": "",
+   "summary": "丁丑年发财、庚午年姐姐升官（宾合）",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD46",
+   "system": "ps-anli-ku",
+   "book_no": 46,
+   "sex": "",
+   "pillars": "",
+   "summary": "死于辛酉运辛巳年（一合则去）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD47",
+   "system": "ps-anli-ku",
+   "book_no": 47,
+   "sex": "",
+   "pillars": "",
+   "summary": "从财格（炒股挣小钱、数年为忌）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD48",
+   "system": "ps-anli-ku",
+   "book_no": 48,
+   "sex": "",
+   "pillars": "",
+   "summary": "中年丧母（酉戌穿、辛死于子）",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD49",
+   "system": "ps-anli-ku",
+   "book_no": 49,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·母有外遇、母能干",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD50",
+   "system": "ps-anli-ku",
+   "book_no": 50,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·母多次改嫁（从强格）",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD51",
+   "system": "ps-anli-ku",
+   "book_no": 51,
+   "sex": "",
+   "pillars": "",
+   "summary": "母嫁二夫·其一（子辰合）",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD52",
+   "system": "ps-anli-ku",
+   "book_no": 52,
+   "sex": "",
+   "pillars": "",
+   "summary": "母嫁二夫·其二（乙庚合、卯戌合）",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD53",
+   "system": "ps-anli-ku",
+   "book_no": 53,
+   "sex": "",
+   "pillars": "",
+   "summary": "母嫁二夫·其三（两寅合亥）",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD54",
+   "system": "ps-anli-ku",
+   "book_no": 54,
+   "sex": "",
+   "pillars": "",
+   "summary": "羊刃踏杀·掌兵权（庚申运乙丑年亡）",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD55",
+   "system": "ps-anli-ku",
+   "book_no": 55,
+   "sex": "",
+   "pillars": "",
+   "summary": "从强用刃（辛亥运辛酉年亡）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD56",
+   "system": "ps-anli-ku",
+   "book_no": 56,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·慈禧造（禄多伤，克子）",
+   "tags": [
+    "六亲",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD57",
+   "system": "ps-anli-ku",
+   "book_no": 57,
+   "sex": "",
+   "pillars": "",
+   "summary": "羊刃有泄（己卯年出事不凶）",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD58",
+   "system": "ps-anli-ku",
+   "book_no": 58,
+   "sex": "",
+   "pillars": "",
+   "summary": "未编号 水木一气从强·贫贱之命（父母双亡）",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD59",
+   "system": "ps-anli-ku",
+   "book_no": 59,
+   "sex": "",
+   "pillars": "",
+   "summary": "用神庚申、父有钱（寅时为忌）",
+   "tags": [
+    "财富",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD60",
+   "system": "ps-anli-ku",
+   "book_no": 60,
+   "sex": "",
+   "pillars": "",
+   "summary": "火旺金衰·身弱用壬水（幼多病肺炎）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD61",
+   "system": "ps-anli-ku",
+   "book_no": 61,
+   "sex": "",
+   "pillars": "",
+   "summary": "不从·以印财为用·搞企业发财（婚姻有问题）",
+   "tags": [
+    "婚姻",
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD62",
+   "system": "ps-anli-ku",
+   "book_no": 62,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·弃命从杀·管企业干部（贪财）",
+   "tags": [
+    "财富",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD63",
+   "system": "ps-anli-ku",
+   "book_no": 63,
+   "sex": "",
+   "pillars": "",
+   "summary": "从强·时上见禄·当总统之命",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD64",
+   "system": "ps-anli-ku",
+   "book_no": 64,
+   "sex": "",
+   "pillars": "",
+   "summary": "从强·日主燥无大病神（很穷·与丁亥造对比）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD65",
+   "system": "ps-anli-ku",
+   "book_no": 65,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·从强·因财原神太弱挣钱不多",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD66",
+   "system": "ps-anli-ku",
+   "book_no": 66,
+   "sex": "",
+   "pillars": "",
+   "summary": "副部长（伤官去官、官年升官）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD67",
+   "system": "ps-anli-ku",
+   "book_no": 67,
+   "sex": "",
+   "pillars": "",
+   "summary": "小布什之命造（庚子运庚辰年当总统）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD67#2",
+   "system": "ps-anli-ku",
+   "book_no": 67,
+   "sex": "",
+   "pillars": "",
+   "summary": "重复出现 小布什之命造（块06 重复排版）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD67#3",
+   "system": "ps-anli-ku",
+   "book_no": 67,
+   "sex": "",
+   "pillars": "",
+   "summary": "附；未编号 测外国人命造（南半球月令反推·食神去官成格）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD68",
+   "system": "ps-anli-ku",
+   "book_no": 68,
+   "sex": "",
+   "pillars": "",
+   "summary": "石家庄爆炸案靳如超造（思自杀身亡）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD69",
+   "system": "ps-anli-ku",
+   "book_no": 69,
+   "sex": "",
+   "pillars": "",
+   "summary": "戚继光造（自坐巳印、戊癸合化水）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD70",
+   "system": "ps-anli-ku",
+   "book_no": 70,
+   "sex": "",
+   "pillars": "",
+   "summary": "从强·壬寅运壬申年破财5万（父亡于辛巳年）",
+   "tags": [
+    "财富",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD71",
+   "system": "ps-anli-ku",
+   "book_no": 71,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·某市长（身弱用印、行暖地）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD72",
+   "system": "ps-anli-ku",
+   "book_no": 72,
+   "sex": "",
+   "pillars": "",
+   "summary": "用时上丁火兼调候（甲戌年挣四千、乙亥年病）",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD73",
+   "system": "ps-anli-ku",
+   "book_no": 73,
+   "sex": "",
+   "pillars": "",
+   "summary": "单用火不用调候（己酉运甲戌年挣近14万）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD74",
+   "system": "ps-anli-ku",
+   "book_no": 74,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·梦露造（庚寅运金处绝地而亡）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD75",
+   "system": "ps-anli-ku",
+   "book_no": 75,
+   "sex": "",
+   "pillars": "",
+   "summary": "从强·怕调候入暖（辛卯运辛未年车祸致残）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD76",
+   "system": "ps-anli-ku",
+   "book_no": 76,
+   "sex": "",
+   "pillars": "",
+   "summary": "寒极暖有气（辛卯运升官、壬辰运离婚）",
+   "tags": [
+    "婚姻",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD77",
+   "system": "ps-anli-ku",
+   "book_no": 77,
+   "sex": "",
+   "pillars": "",
+   "summary": "邵伟华预测部经理（金水一气、发财）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD78",
+   "system": "ps-anli-ku",
+   "book_no": 78,
+   "sex": "",
+   "pillars": "",
+   "summary": "金多水浊、早夭",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD79",
+   "system": "ps-anli-ku",
+   "book_no": 79,
+   "sex": "",
+   "pillars": "",
+   "summary": "从申运入暖地（丙辰运差）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD80",
+   "system": "ps-anli-ku",
+   "book_no": 80,
+   "sex": "",
+   "pillars": "",
+   "summary": "袁世凯造（戊辰运丙午年罢官、丁卯运丙辰年气死）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD81",
+   "system": "ps-anli-ku",
+   "book_no": 81,
+   "sex": "",
+   "pillars": "",
+   "summary": "印重坏官（胆小怕事、恋家）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD82",
+   "system": "ps-anli-ku",
+   "book_no": 82,
+   "sex": "",
+   "pillars": "",
+   "summary": "印重·羊刃踏杀（为当官的开车）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD83",
+   "system": "ps-anli-ku",
+   "book_no": 83,
+   "sex": "",
+   "pillars": "",
+   "summary": "郝先生断：差一点当皇帝（穿倒羊刃死于非命）",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD84",
+   "system": "ps-anli-ku",
+   "book_no": 84,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·为婚姻苦恼（无财冷淡症）",
+   "tags": [
+    "婚姻",
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD85",
+   "system": "ps-anli-ku",
+   "book_no": 85,
+   "sex": "",
+   "pillars": "",
+   "summary": "未编号 贱命财入重",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD86",
+   "system": "ps-anli-ku",
+   "book_no": 86,
+   "sex": "",
+   "pillars": "",
+   "summary": "军人·掌军权（伤官无根、徒有虚名）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸",
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD87",
+   "system": "ps-anli-ku",
+   "book_no": 87,
+   "sex": "",
+   "pillars": "",
+   "summary": "冯玉祥造（伤官为军队、领兵打仗）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD88",
+   "system": "ps-anli-ku",
+   "book_no": 88,
+   "sex": "",
+   "pillars": "",
+   "summary": "台湾的将军（金伤官受火制、有丑根）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD89",
+   "system": "ps-anli-ku",
+   "book_no": 89,
+   "sex": "",
+   "pillars": "",
+   "summary": "胆大造·羊刃逢冲被枪毙（残排盘）",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD90",
+   "system": "ps-anli-ku",
+   "book_no": 90,
+   "sex": "",
+   "pillars": "",
+   "summary": "羊刃逢冲·拿刀杀人被拦（卯酉冲力不大）",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD91",
+   "system": "ps-anli-ku",
+   "book_no": 91,
+   "sex": "",
+   "pillars": "",
+   "summary": "小聪明、懒不学习（子辰半合）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD92",
+   "system": "ps-anli-ku",
+   "book_no": 92,
+   "sex": "",
+   "pillars": "",
+   "summary": "胆小造（羊刃见伤官胆小）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD93",
+   "system": "ps-anli-ku",
+   "book_no": 93,
+   "sex": "",
+   "pillars": "",
+   "summary": "胆大造·王加仁（沈阳\"3·8\"大案·双羊刃）",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD94",
+   "system": "ps-anli-ku",
+   "book_no": 94,
+   "sex": "",
+   "pillars": "",
+   "summary": "走私犯罪坐牢（卯戌合救、酉戌穿力小）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD95",
+   "system": "ps-anli-ku",
+   "book_no": 95,
+   "sex": "",
+   "pillars": "",
+   "summary": "李莲英造（得富得财、处事圆滑）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD96",
+   "system": "ps-anli-ku",
+   "book_no": 96,
+   "sex": "",
+   "pillars": "",
+   "summary": "曾坐牢20年·庸医（戌为日主之墓、丙子伏吟）",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD97",
+   "system": "ps-anli-ku",
+   "book_no": 97,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤沙造（食神生财、走黑道、丙子年投降）",
+   "tags": [
+    "财富",
+    "六亲",
+    "特异玄学"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD98",
+   "system": "ps-anli-ku",
+   "book_no": 98,
+   "sex": "",
+   "pillars": "",
+   "summary": "李自成造（打入北京、同年起同年败）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD99",
+   "system": "ps-anli-ku",
+   "book_no": 99,
+   "sex": "",
+   "pillars": "",
+   "summary": "大文学家南怀瑾（食神泄秀格）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD100",
+   "system": "ps-anli-ku",
+   "book_no": 100,
+   "sex": "",
+   "pillars": "",
+   "summary": "洪秀全造（庚申运金田起义、甲子年亡）",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD101",
+   "system": "ps-anli-ku",
+   "book_no": 101,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·父有两个妻（己卯年父去世）",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD102",
+   "system": "ps-anli-ku",
+   "book_no": 102,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·夭折之命（弃婴被活埋）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD103",
+   "system": "ps-anli-ku",
+   "book_no": 103,
+   "sex": "",
+   "pillars": "",
+   "summary": "大学毕业·下岗很穷（食神意向转变·乞丐命）",
+   "tags": [
+    "学业文化"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD104",
+   "system": "ps-anli-ku",
+   "book_no": 104,
+   "sex": "",
+   "pillars": "",
+   "summary": "身旺财为用·穷命（卯水难生午火）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD105",
+   "system": "ps-anli-ku",
+   "book_no": 105,
+   "sex": "",
+   "pillars": "",
+   "summary": "从强·禄神有泄、财里有生（讨饭）",
+   "tags": [
+    "财富",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD106",
+   "system": "ps-anli-ku",
+   "book_no": 106,
+   "sex": "",
+   "pillars": "",
+   "summary": "刘庸侄儿刘中堂造（官印格兼调候、丙印大贵）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD107",
+   "system": "ps-anli-ku",
+   "book_no": 107,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤造·官印格有破（巳冲亥印破无成）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD108",
+   "system": "ps-anli-ku",
+   "book_no": 108,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱无印·官星合身不贵（坐印则贵）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD109",
+   "system": "ps-anli-ku",
+   "book_no": 109,
+   "sex": "",
+   "pillars": "",
+   "summary": "官星秉令·印重泄官（辛亥运升官）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD110",
+   "system": "ps-anli-ku",
+   "book_no": 110,
+   "sex": "",
+   "pillars": "",
+   "summary": "印星秉令·官印全有（癸未运厅级干部）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD111",
+   "system": "ps-anli-ku",
+   "book_no": 111,
+   "sex": "",
+   "pillars": "",
+   "summary": "印星秉令·禄被官破（无官）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD112",
+   "system": "ps-anli-ku",
+   "book_no": 112,
+   "sex": "",
+   "pillars": "",
+   "summary": "国家足球队教练·杀印格（杀刃俱全为贵）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD113",
+   "system": "ps-anli-ku",
+   "book_no": 113,
+   "sex": "",
+   "pillars": "",
+   "summary": "官星秉令·身弱用印（壬寅运好、辛丑运更好）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD114",
+   "system": "ps-anli-ku",
+   "book_no": 114,
+   "sex": "",
+   "pillars": "",
+   "summary": "弃命从杀（乙丑运倒霉、甲子运死）",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD115",
+   "system": "ps-anli-ku",
+   "book_no": 115,
+   "sex": "",
+   "pillars": "",
+   "summary": "时透己印紧贴生身（不从·戊寅运乙亥年死）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD116",
+   "system": "ps-anli-ku",
+   "book_no": 116,
+   "sex": "",
+   "pillars": "",
+   "summary": "财杀秉令归禄·聪明有名气",
+   "tags": [
+    "财富",
+    "名气",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD117",
+   "system": "ps-anli-ku",
+   "book_no": 117,
+   "sex": "",
+   "pillars": "",
+   "summary": "食神制杀·当官而累、与上司斗嘴",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD118",
+   "system": "ps-anli-ku",
+   "book_no": 118,
+   "sex": "",
+   "pillars": "",
+   "summary": "寅申冲食神制杀·壬申运儿死妻亡",
+   "tags": [
+    "婚姻",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD119",
+   "system": "ps-anli-ku",
+   "book_no": 119,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官合杀·全斗焕造（总统→下台→入狱→特赦）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD120",
+   "system": "ps-anli-ku",
+   "book_no": 120,
+   "sex": "",
+   "pillars": "",
+   "summary": "七杀秉令·陈希同造（伤官合杀、桃花入狱）",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD121",
+   "system": "ps-anli-ku",
+   "book_no": 121,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官合杀·与庚午造对比（副省长秘书）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD122",
+   "system": "ps-anli-ku",
+   "book_no": 122,
+   "sex": "",
+   "pillars": "",
+   "summary": "时上七杀·两次婚姻（李某）",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD123",
+   "system": "ps-anli-ku",
+   "book_no": 123,
+   "sex": "",
+   "pillars": "",
+   "summary": "女坐伤官·克夫再嫁（简例）",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD124",
+   "system": "ps-anli-ku",
+   "book_no": 124,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官遇劫财·运中离婚",
+   "tags": [
+    "婚姻",
+    "财富",
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD125",
+   "system": "ps-anli-ku",
+   "book_no": 125,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官泄秀格·名人艺人、两次婚姻",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "健康灾祸",
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD126",
+   "system": "ps-anli-ku",
+   "book_no": 126,
+   "sex": "",
+   "pillars": "",
+   "summary": "从强·金水为忌、火土为喜（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD127",
+   "system": "ps-anli-ku",
+   "book_no": 127,
+   "sex": "",
+   "pillars": "",
+   "summary": "无它星怕官星现·丙子运官灾被捕",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD128",
+   "system": "ps-anli-ku",
+   "book_no": 128,
+   "sex": "",
+   "pillars": "",
+   "summary": "先天七杀有化·丙申运做地产得财（未编号·补号）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD129",
+   "system": "ps-anli-ku",
+   "book_no": 129,
+   "sex": "",
+   "pillars": "",
+   "summary": "森田健·特异功能专家（卯戌合绊、双妻）",
+   "tags": [
+    "婚姻",
+    "特异玄学"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD130",
+   "system": "ps-anli-ku",
+   "book_no": 130,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱伤食生财·壬子运穷（简例）",
+   "tags": [
+    "财富",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD131",
+   "system": "ps-anli-ku",
+   "book_no": 131,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱不从·庚杀恶露、壬申运发财",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD132",
+   "system": "ps-anli-ku",
+   "book_no": 132,
+   "sex": "",
+   "pillars": "",
+   "summary": "忌神虚透自化·做钢材生意起家、发大财",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD133",
+   "system": "ps-anli-ku",
+   "book_no": 133,
+   "sex": "",
+   "pillars": "",
+   "summary": "身旺财旺·下海成房地产倒卖商",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD134",
+   "system": "ps-anli-ku",
+   "book_no": 134,
+   "sex": "",
+   "pillars": "",
+   "summary": "日主偏旺喜官杀·官杀混杂婚姻不好",
+   "tags": [
+    "婚姻",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD135",
+   "system": "ps-anli-ku",
+   "book_no": 135,
+   "sex": "",
+   "pillars": "",
+   "summary": "从财·出国留学、离婚",
+   "tags": [
+    "婚姻",
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD136",
+   "system": "ps-anli-ku",
+   "book_no": 136,
+   "sex": "",
+   "pillars": "",
+   "summary": "杀印格·张勋造（复辟）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD137",
+   "system": "ps-anli-ku",
+   "book_no": 137,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱财杀为忌·离婚、损子、父早亡",
+   "tags": [
+    "婚姻",
+    "财富",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD138",
+   "system": "ps-anli-ku",
+   "book_no": 138,
+   "sex": "",
+   "pillars": "",
+   "summary": "刘晓庆造·宫寒不生子（简例）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD139",
+   "system": "ps-anli-ku",
+   "book_no": 139,
+   "sex": "",
+   "pillars": "",
+   "summary": "亥未拱禄·身旺财旺靠丈夫（简例）",
+   "tags": [
+    "婚姻",
+    "财富",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD140",
+   "system": "ps-anli-ku",
+   "book_no": 140,
+   "sex": "",
+   "pillars": "",
+   "summary": "银行家·庚辰运周转不灵濒临倒闭",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD141",
+   "system": "ps-anli-ku",
+   "book_no": 141,
+   "sex": "",
+   "pillars": "",
+   "summary": "从财·非常穷（简例）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD142",
+   "system": "ps-anli-ku",
+   "book_no": 142,
+   "sex": "",
+   "pillars": "",
+   "summary": "食神泄秀格·秀气出名（简例）",
+   "tags": [
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD143",
+   "system": "ps-anli-ku",
+   "book_no": 143,
+   "sex": "",
+   "pillars": "",
+   "summary": "内食神·不出名（与甲戌造对比·简例）",
+   "tags": [
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD144",
+   "system": "ps-anli-ku",
+   "book_no": 144,
+   "sex": "",
+   "pillars": "",
+   "summary": "时透丁食·大器晚成、名贯中外",
+   "tags": [
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD145",
+   "system": "ps-anli-ku",
+   "book_no": 145,
+   "sex": "",
+   "pillars": "",
+   "summary": "食神纯粹·大贵长寿（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD146",
+   "system": "ps-anli-ku",
+   "book_no": 146,
+   "sex": "",
+   "pillars": "",
+   "summary": "食神泄秀格·甲午运去忌（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD147",
+   "system": "ps-anli-ku",
+   "book_no": 147,
+   "sex": "",
+   "pillars": "",
+   "summary": "圆瑛大法师造·金水伤官/食神泄秀",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD148",
+   "system": "ps-anli-ku",
+   "book_no": 148,
+   "sex": "",
+   "pillars": "",
+   "summary": "忌神丙杀虚透·辛酉运合制当官（简例）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD149",
+   "system": "ps-anli-ku",
+   "book_no": 149,
+   "sex": "",
+   "pillars": "",
+   "summary": "辛金见癸水·美丽（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD150",
+   "system": "ps-anli-ku",
+   "book_no": 150,
+   "sex": "",
+   "pillars": "",
+   "summary": "己土太燥·作家编辑、亥水调候",
+   "tags": [
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD151",
+   "system": "ps-anli-ku",
+   "book_no": 151,
+   "sex": "",
+   "pillars": "",
+   "summary": "用神无力·穷教书匠",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD152",
+   "system": "ps-anli-ku",
+   "book_no": 152,
+   "sex": "",
+   "pillars": "",
+   "summary": "丁食暗合不泄秀·俗人（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD153",
+   "system": "ps-anli-ku",
+   "book_no": 153,
+   "sex": "",
+   "pillars": "",
+   "summary": "从禄格·胡耀邦造（庚辰运任总书记、己卯运去世）",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD154",
+   "system": "ps-anli-ku",
+   "book_no": 154,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官泄秀格·经商成几亿富翁、无子",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD155",
+   "system": "ps-anli-ku",
+   "book_no": 155,
+   "sex": "",
+   "pillars": "",
+   "summary": "三毛造·羊刃冲官死夫、甲申运自杀",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD156",
+   "system": "ps-anli-ku",
+   "book_no": 156,
+   "sex": "",
+   "pillars": "",
+   "summary": "摇滚歌星·伤官旺透泄秀（简例）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸",
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD157",
+   "system": "ps-anli-ku",
+   "book_no": 157,
+   "sex": "",
+   "pillars": "",
+   "summary": "演员·甲伤虚透、庚申运吸毒过量而亡",
+   "tags": [
+    "健康灾祸",
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD158",
+   "system": "ps-anli-ku",
+   "book_no": 158,
+   "sex": "",
+   "pillars": "",
+   "summary": "舞蹈家·胆癌死（简例）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD159",
+   "system": "ps-anli-ku",
+   "book_no": 159,
+   "sex": "",
+   "pillars": "",
+   "summary": "食伤泄秀·儿女5个、富超百万（简例）",
+   "tags": [
+    "财富",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD160",
+   "system": "ps-anli-ku",
+   "book_no": 160,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·食伤泄秀·大财、吸毒、不生育",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD161",
+   "system": "ps-anli-ku",
+   "book_no": 161,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官见财·有子2个死1个（简例）",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD162",
+   "system": "ps-anli-ku",
+   "book_no": 162,
+   "sex": "",
+   "pillars": "",
+   "summary": "李涵辰造·时透七杀主聪明（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD163",
+   "system": "ps-anli-ku",
+   "book_no": 163,
+   "sex": "",
+   "pillars": "",
+   "summary": "原局用神受制·辛丑运甲戌年母逝",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD164",
+   "system": "ps-anli-ku",
+   "book_no": 164,
+   "sex": "",
+   "pillars": "",
+   "summary": "不从杀·己未运用神生旺则凶（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD165",
+   "system": "ps-anli-ku",
+   "book_no": 165,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官佩印·神童（13岁秀才、16岁举人、20岁探花）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD166",
+   "system": "ps-anli-ku",
+   "book_no": 166,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官合杀·处事圆滑（简例）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD167",
+   "system": "ps-anli-ku",
+   "book_no": 167,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官外露·当不了大官（简例）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD168",
+   "system": "ps-anli-ku",
+   "book_no": 168,
+   "sex": "",
+   "pillars": "",
+   "summary": "以印制伤·地委书记、处事圆滑",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD169",
+   "system": "ps-anli-ku",
+   "book_no": 169,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官佩印格·反叛犯上、巳亥冲遭难",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD170",
+   "system": "ps-anli-ku",
+   "book_no": 170,
+   "sex": "",
+   "pillars": "",
+   "summary": "希特勒造·伤官佩印、壬戌运乙酉死亡",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD171",
+   "system": "ps-anli-ku",
+   "book_no": 171,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官佩印·算卦之人（改邪归正）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD172",
+   "system": "ps-anli-ku",
+   "book_no": 172,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官佩印·五阳见印不从、酉戌穿坏印而亡",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD173",
+   "system": "ps-anli-ku",
+   "book_no": 173,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱官忌·财虚透很有钱（简例）",
+   "tags": [
+    "财富",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD174",
+   "system": "ps-anli-ku",
+   "book_no": 174,
+   "sex": "",
+   "pillars": "",
+   "summary": "身弱·行暖地运皆好（未编号·补号）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD175",
+   "system": "ps-anli-ku",
+   "book_no": 175,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官佩印·忌见财、巳亥冲印禄受伤",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD176",
+   "system": "ps-anli-ku",
+   "book_no": 176,
+   "sex": "",
+   "pillars": "",
+   "summary": "禄被七杀压·癸巳运壬戌年入狱",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD177",
+   "system": "ps-anli-ku",
+   "book_no": 177,
+   "sex": "",
+   "pillars": "",
+   "summary": "与丙申造对比·无牢狱之灾、当官",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD178",
+   "system": "ps-anli-ku",
+   "book_no": 178,
+   "sex": "",
+   "pillars": "",
+   "summary": "忌神与忌神合绊·戊戌运癸亥年发财（未编号·补号）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD179",
+   "system": "ps-anli-ku",
+   "book_no": 179,
+   "sex": "",
+   "pillars": "",
+   "summary": "乙木秋生用火·贵（简例）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD180",
+   "system": "ps-anli-ku",
+   "book_no": 180,
+   "sex": "",
+   "pillars": "",
+   "summary": "官禄格·管皇帝的、乱怀伤夫克子（慈禧类）",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "六亲",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD181",
+   "system": "ps-anli-ku",
+   "book_no": 181,
+   "sex": "",
+   "pillars": "",
+   "summary": "李鸿章造·官禄格（翰林总督、戊申运权最大、丙午运卒）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD182",
+   "system": "ps-anli-ku",
+   "book_no": 182,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·官禄格当官·癸丑运既发财又当官",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD183",
+   "system": "ps-anli-ku",
+   "book_no": 183,
+   "sex": "",
+   "pillars": "",
+   "summary": "官禄格见官杀破格·可为富人",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD184",
+   "system": "ps-anli-ku",
+   "book_no": 184,
+   "sex": "",
+   "pillars": "",
+   "summary": "时上归禄·甲官破午禄（简例）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD185",
+   "system": "ps-anli-ku",
+   "book_no": 185,
+   "sex": "",
+   "pillars": "",
+   "summary": "官禄格无官杀·庚伤自化不破（简例）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD186",
+   "system": "ps-anli-ku",
+   "book_no": 186,
+   "sex": "",
+   "pillars": "",
+   "summary": "以禄当官·经济博士生（简例）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD187",
+   "system": "ps-anli-ku",
+   "book_no": 187,
+   "sex": "",
+   "pillars": "",
+   "summary": "官禄格·伤食有制不破（简例）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD188",
+   "system": "ps-anli-ku",
+   "book_no": 188,
+   "sex": "",
+   "pillars": "",
+   "summary": "与庚辰时造对比·无官发财但只有几十万（简例）",
+   "tags": [
+    "财富",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD189",
+   "system": "ps-anli-ku",
+   "book_no": 189,
+   "sex": "",
+   "pillars": "",
+   "summary": "梁启超造·以禄当官、任教育司法总长",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD190",
+   "system": "ps-anli-ku",
+   "book_no": 190,
+   "sex": "",
+   "pillars": "",
+   "summary": "时上归禄官禄格·癸杀有制自化主贵（简例）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD191",
+   "system": "ps-anli-ku",
+   "book_no": 191,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·时透甲禄·酉官自化、女少将",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD192",
+   "system": "ps-anli-ku",
+   "book_no": 192,
+   "sex": "",
+   "pillars": "",
+   "summary": "圣雄甘地·官禄格（寅巳穿倒归禄而卒）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD193",
+   "system": "ps-anli-ku",
+   "book_no": 193,
+   "sex": "",
+   "pillars": "",
+   "summary": "官禄格时上归禄·见食破反为大财主（简例）",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD194",
+   "system": "ps-anli-ku",
+   "book_no": 194,
+   "sex": "",
+   "pillars": "",
+   "summary": "伤官佩印·私心重、逃往国外（无官杀不坐牢）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸",
+    "性格"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD195",
+   "system": "ps-anli-ku",
+   "book_no": 195,
+   "sex": "",
+   "pillars": "",
+   "summary": "身旺财旺·银行家、红顶商人",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD196",
+   "system": "ps-anli-ku",
+   "book_no": 196,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·卯伏吟、丙辛合假父、卯申暗合母有外遇（简例）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD197",
+   "system": "ps-anli-ku",
+   "book_no": 197,
+   "sex": "",
+   "pillars": "",
+   "summary": "丙辛合·妻与他人互换（简例）",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD198",
+   "system": "ps-anli-ku",
+   "book_no": 198,
+   "sex": "",
+   "pillars": "",
+   "summary": "变格·从财（巳刃在宾位、得别人之财）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD199",
+   "system": "ps-anli-ku",
+   "book_no": 199,
+   "sex": "",
+   "pillars": "",
+   "summary": "变格·从财（巳在主位、自己发大财）·与198对比",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD200",
+   "system": "ps-anli-ku",
+   "book_no": 200,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·从财·夫死戊戌运庚午年、丁酉年开发商发财",
+   "tags": [
+    "婚姻",
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD201",
+   "system": "ps-anli-ku",
+   "book_no": 201,
+   "sex": "",
+   "pillars": "",
+   "summary": "变格·从财·有官杀亦从财、丙子运甲戌年发破并见",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD202",
+   "system": "ps-anli-ku",
+   "book_no": 202,
+   "sex": "",
+   "pillars": "",
+   "summary": "不从财·身弱不胜财乞丐、巳丑运亡",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD203",
+   "system": "ps-anli-ku",
+   "book_no": 203,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·变格示例（从格判断裁断未完整）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD204",
+   "system": "ps-anli-ku",
+   "book_no": 204,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·丧父、二夫、服毒自杀",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD205",
+   "system": "ps-anli-ku",
+   "book_no": 205,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从官杀·财坐财库之千亿商家（微软造）",
+   "tags": [
+    "财富",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD206",
+   "system": "ps-anli-ku",
+   "book_no": 206,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·不从（五阴从食伤不从官杀、藤萝系甲）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD207",
+   "system": "ps-anli-ku",
+   "book_no": 207,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·不从官杀·癸印制杀、作副市长秘书",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD208",
+   "system": "ps-anli-ku",
+   "book_no": 208,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·从儿格·藤萝系甲不从、女命多淫、从儿有文化",
+   "tags": [
+    "学业文化",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD209",
+   "system": "ps-anli-ku",
+   "book_no": 209,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从儿格·丙申运破格、木临绝地而亡",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD210",
+   "system": "ps-anli-ku",
+   "book_no": 210,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·胡适造（丑未冲印破、食神生财学问深）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD211",
+   "system": "ps-anli-ku",
+   "book_no": 211,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从财（介于从时从儿之间）·己卯运透财曾任台湾总统",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD212",
+   "system": "ps-anli-ku",
+   "book_no": 212,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·儿生儿从财·辛巳年马星伏吟而出国留学",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD213",
+   "system": "ps-anli-ku",
+   "book_no": 213,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·从儿格·中国第一个女企业家（锦江饭店）",
+   "tags": [
+    "财富",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD214",
+   "system": "ps-anli-ku",
+   "book_no": 214,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·李敖造（从儿喜见儿、伤官傲慢、女人多）",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD215",
+   "system": "ps-anli-ku",
+   "book_no": 215,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从儿格·成名演员、壬戌运坏、辛酉运乙亥年忧郁而亡",
+   "tags": [
+    "健康灾祸",
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD216",
+   "system": "ps-anli-ku",
+   "book_no": 216,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从儿喜见财·己卯运起步、戊寅运大发亿万",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD217",
+   "system": "ps-anli-ku",
+   "book_no": 217,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从财·丙午运己卯年由派出所调公安局",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD218",
+   "system": "ps-anli-ku",
+   "book_no": 218,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从儿喜见财·乙卯运考取博士、丙辰运患软骨病",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD219",
+   "system": "ps-anli-ku",
+   "book_no": 219,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·以禄当官·丁卯运甲子年因高压电打掉右臂（黄成明）",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD220",
+   "system": "ps-anli-ku",
+   "book_no": 220,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·与例219同构对比·无残疾",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD221",
+   "system": "ps-anli-ku",
+   "book_no": 221,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·用神归禄、丁官为忌·壬子运乙亥年左手臂受伤（含块15 答语）",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD222",
+   "system": "ps-anli-ku",
+   "book_no": 222,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从强有病神·戊寅运大吉升官",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD223",
+   "system": "ps-anli-ku",
+   "book_no": 223,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·与例222对比·无病神为贱命（枭神生劫不劳而获）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD224",
+   "system": "ps-anli-ku",
+   "book_no": 224,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·无病神·壬午运戊寅年火灾烧死",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD225",
+   "system": "ps-anli-ku",
+   "book_no": 225,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从强·有病神水被印合绊主吉",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD226",
+   "system": "ps-anli-ku",
+   "book_no": 226,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·禄刃俱全·戌运当总参、戊申运戊辰年流血而亡",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD227",
+   "system": "ps-anli-ku",
+   "book_no": 227,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·从强（拱杀）·辛巳运辛巳年患急性肾炎",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD228",
+   "system": "ps-anli-ku",
+   "book_no": 228,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·身旺时透食神泄秀·丁卯运升秘书、庚辰年升处级",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD229",
+   "system": "ps-anli-ku",
+   "book_no": 229,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·曾国藩造（从食神、官有库、管官的官）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD230",
+   "system": "ps-anli-ku",
+   "book_no": 230,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·以禄当官·己运戊午年丧父（潍坊党校校长）",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD231",
+   "system": "ps-anli-ku",
+   "book_no": 231,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·从强·癸亥运丁巳年六合彩盈利200万、甲子运壬申年亡",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD232",
+   "system": "ps-anli-ku",
+   "book_no": 232,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·身旺用丑财·辛未年发财、夫有外遇",
+   "tags": [
+    "婚姻",
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD233",
+   "system": "ps-anli-ku",
+   "book_no": 233,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·看父亲·甲午运己卯年父病重（附婚姻诸断）",
+   "tags": [
+    "婚姻",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD234",
+   "system": "ps-anli-ku",
+   "book_no": 234,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·吴佩孚造（酉食为寿元星·空亡辰酉合延寿·乙亥运己卯年被害）",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD235",
+   "system": "ps-anli-ku",
+   "book_no": 235,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·与例234同干支（己甲己甲）·丁卯运辛未年偏瘫而死",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD236",
+   "system": "ps-anli-ku",
+   "book_no": 236,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·汪精卫造（印为祖国·己巳申合门户、庚戌运甲申年病死国外）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD237",
+   "system": "ps-anli-ku",
+   "book_no": 237,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·从财·丙申运丁未年一冲一合而亡",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD238",
+   "system": "ps-anli-ku",
+   "book_no": 238,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·徐世昌造（印为寿元星合时上寿高·戊寅运金绝于寅、己卯年卯酉冲）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD239",
+   "system": "ps-anli-ku",
+   "book_no": 239,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·张之洞造（时上午印为寿元星·辛丑运己酉年丑午穿而亡）",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD240",
+   "system": "ps-anli-ku",
+   "book_no": 240,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·亥印为寿元星·己巳运戊辰年乙卯月亡",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD241",
+   "system": "ps-anli-ku",
+   "book_no": 241,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·卯禄为寿元星·己酉运乙亥年卯酉冲而亡",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD242",
+   "system": "ps-anli-ku",
+   "book_no": 242,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·台湾三毛（寅禄为寿元星·甲申运庚午年燃尽而亡）",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD243",
+   "system": "ps-anli-ku",
+   "book_no": 243,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·戊戌造（申禄为寿元星·申绝寅墓丑·鼻癌）",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD244",
+   "system": "ps-anli-ku",
+   "book_no": 244,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·与戊戌造（例243）对比·申禄原神辰不空、寿长亿万富翁",
+   "tags": [
+    "财富",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD245",
+   "system": "ps-anli-ku",
+   "book_no": 245,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·申禄为寿元星·庚寅运丁丑年申墓于丑",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD246",
+   "system": "ps-anli-ku",
+   "book_no": 246,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·水无原神·丁卯运丙子年子未穿倒禄神而亡",
+   "tags": [
+    "六亲",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD247",
+   "system": "ps-anli-ku",
+   "book_no": 247,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·以日主丙火作寿元星·戊戌运庚午年子午冲刃而死",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD248",
+   "system": "ps-anli-ku",
+   "book_no": 248,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·寅财为寿元星·己丑运丁卯年卯酉冲酉中神而亡",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD249",
+   "system": "ps-anli-ku",
+   "book_no": 249,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·以月令申食为寿元星·辛巳运丁丑年申入丑而亡",
+   "tags": [
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD250",
+   "system": "ps-anli-ku",
+   "book_no": 250,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·身旺亥禄为寿元星·丁卯运辛巳年冲破禄神且绝于巳",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD251",
+   "system": "ps-anli-ku",
+   "book_no": 251,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·用神亥印·壬戌运壬戌年岁并而亡（克妻之造）",
+   "tags": [
+    "婚姻",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD252",
+   "system": "ps-anli-ku",
+   "book_no": 252,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·刘胡兰命造（巳酉运丙戌年穿倒羊刃、一刀之罪）",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD253",
+   "system": "ps-anli-ku",
+   "book_no": 253,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·卯禄为寿元星·乙巳运丙子年伤官见官、刑坏禄神被枪毙",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD254",
+   "system": "ps-anli-ku",
+   "book_no": 254,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·子印为寿元星·己未运亥年被杀（山西续范亭）",
+   "tags": [
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD255",
+   "system": "ps-anli-ku",
+   "book_no": 255,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·用神辰印·癸酉运辛未年羊刃合杀主权升、甲戌运车祸",
+   "tags": [
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD256",
+   "system": "ps-anli-ku",
+   "book_no": 256,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·用神申禄入日主·甲寅运壬申年升官（廉官校长）",
+   "tags": [
+    "官贵事业",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD257",
+   "system": "ps-anli-ku",
+   "book_no": 257,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·用神丁卯杀印相生·辛未运乙亥年升处长",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD258",
+   "system": "ps-anli-ku",
+   "book_no": 258,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·朱镕基造（伤官佩印·辛未运辛未年当国务院总理）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD259",
+   "system": "ps-anli-ku",
+   "book_no": 259,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·燥木用亥印·辛丑运得霍英东资助、庚子运丙子年任行政长官",
+   "tags": [
+    "官贵事业",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD260",
+   "system": "ps-anli-ku",
+   "book_no": 260,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·从财·丙寅大忌神·戊寅己卯年患胃病",
+   "tags": [
+    "财富",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD261",
+   "system": "ps-anli-ku",
+   "book_no": 261,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·禄为用神不可泄·戊寅运丁巳年死",
+   "tags": [
+    "健康灾祸",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD262",
+   "system": "ps-anli-ku",
+   "book_no": 262,
+   "sex": "乾造",
+   "pillars": "",
+   "summary": "乾·段祺瑞造（伤官佩印·傀儡总统·庚辰运戊辰年死）",
+   "tags": [
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GD263",
+   "system": "ps-anli-ku",
+   "book_no": 263,
+   "sex": "坤造",
+   "pillars": "",
+   "summary": "坤·以它位断六亲·从强忌辛、庚午运己巳年死父",
+   "tags": [
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "GDX1",
+   "system": "ps-anli-ku",
+   "book_no": null,
+   "sex": "",
+   "pillars": "",
+   "summary": "（未编号）某副处长造·金水伤官混辰土（块05 末—块06 首）",
+   "tags": [],
+   "source": "盘叔盲派/ps-anli-ku/SKILL.md 全库速查表",
+   "grade": "索引级（正文未随包）"
+  },
+  {
+   "id": "S-GD-001",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 1,
+   "sex": "乾造",
+   "pillars": "乙巳　甲申　甲子　丁卯",
+   "summary": "从日柱入手断文化——子在妻宫、申为妻印生妻，故妻之文化高于己，且妻有正式工资另有较大收入；甲木 32 岁前无印，本人文化不高，后见印主后来补学；申金被子水泄、巳火克，岳母身体不好；乙木正印生己，岳父聪敏。",
+   "tags": [
+    "婚姻",
+    "学业文化",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-002",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 2,
+   "sex": "乾造",
+   "pillars": "庚寅　乙酉　甲戌　甲子",
+   "summary": "妻星属土坐妻宫，妻对夫忠诚；戌为火之死地，无明火生扶、不透干、不得地，故妻无文化（小学三年）；子为日主之印即母星，戊土紧邻子水相克，婆媳不和；酉戌相穿，夫妻常吵，但无离婚信息。",
+   "tags": [
+    "婚姻",
+    "学业文化",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-003",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 3,
+   "sex": "坤造",
+   "pillars": "壬戌　丙午　乙丑　戊寅",
+   "summary": "伤官当令，性格开朗、善与人交；印星被坏，学历不高无文凭；官星不显，不能为官亦无正式工作；食伤生财，生意求财（商场售货）；官星藏库，夫之能力不及命主（实为夫无工作、靠她养）；无明官而暗藏官杀不少，主有秘密男友；食伤临空库，不利子女（反馈：至今无孩）。",
+   "tags": [
+    "婚姻",
+    "财富",
+    "官贵事业",
+    "学业文化",
+    "六亲",
+    "健康灾祸",
+    "性格"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-004",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 4,
+   "sex": "坤造",
+   "pillars": "壬辰　壬寅　辛丑　戊子",
+   "summary": "满盘伤官、局中无官、配偶宫遇合 → 单身之命；伤官为子女星而坐空亡库地 → 不可能有子女；年支辰为水库、天干壬水，辰土空亡则「未被破损」，故虽空而逢冲亦不能破；食伤旺而无官，行戌土、亥水运为皈依佛门之标志（实为虔诚佛教徒、纯女儿身）；虽无官星，然婚姻宫无冲绝，故有恋爱，庚子大运再遇合 → 被恋人抛弃；印星临身流入日主 → 文化较高有文凭；天马行空 → 漂泊、居无定所；胎元空、印星辰土空、命宫身宫遇刑；财星在月令不透，天干壬水生之 → 守",
+   "tags": [
+    "婚姻",
+    "财富",
+    "官贵事业",
+    "学业文化",
+    "六亲",
+    "健康灾祸",
+    "性格",
+    "特异玄学",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-005",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 5,
+   "sex": "乾造",
+   "pillars": "甲辰　壬申　乙卯　丁丑",
+   "summary": "官星流入日主，看似有官运，然官星绝于日支即绝于日主 → 「吃官场饭而没有官运」（反馈确认在官场而无官运）；月柱兄弟宫被日支所绝 → 兄弟姐妹六人、有不在世者（反馈：大哥已去世）；日柱纳音大溪水 → 心高不安于现状；食神透而官星不透 → 逆反、抗上、说话太直；印星得地流入日主、胎元落印星旺 → 文凭高（至少大本）；甲戌运天比地冲年柱，年支辰为印星墓地，冲开则印入墓，丙辰年填实，加行大耗吊客 → 13 岁母亲去世；乙亥运亥卯相和、亥水通关，",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "学业文化",
+    "六亲",
+    "健康灾祸",
+    "性格",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-006",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 6,
+   "sex": "坤造",
+   "pillars": "戊午　乙丑　庚戌　壬午",
+   "summary": "以年柱主 1–16 岁、月柱 17–32、日柱 33–48、时柱 49–64 分限；月干乙木（财）克年干戊土（印），印为母，受克者在年干故应 1–8 岁；1 岁戊戌年引出戊土，7 岁甲辰、8 岁乙巳引出甲乙木加大克力 → 1–8 岁母亲多病、家贫，尤以出生年及 1964、1965 为重（反馈：生年母亲难产继病、64–65 卧病、因此辍学）；日干庚合乙木，庚为比肩、乙为财，比肩克财，女命财既为钱又为官星之源 → 17–24 岁因情与财陷困",
+   "tags": [
+    "财富",
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-007",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 7,
+   "sex": "乾造",
+   "pillars": "己卯　丙子　壬午　甲辰",
+   "summary": "日干壬水克月干丙火，壬为比肩、丙为偏财，受克者在月干 → 17–24 岁有比肩克偏财之事，故 1956–1963 年间「先同居后结婚，婚后妻不忠」；地支月支子冲日支午，子中癸为劫财、午中丁为正财，受克者在日柱 → 33–48 岁比劫冲克正财，主婚灾或夫妻争吵；1978 戊午年妻星出现而妻不辞而别。",
+   "tags": [
+    "婚姻",
+    "财富",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-008",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 8,
+   "sex": "乾造",
+   "pillars": "庚戌　辛巳　己亥　乙亥",
+   "summary": "食伤在年月柱 → 不可能早婚；伤官大运不利婚姻；月柱与时柱天克地冲 → 月柱所主青年段有「一个死关」。",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-009",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 9,
+   "sex": "坤造",
+   "pillars": "壬寅　己酉　癸酉　戊午",
+   "summary": "七杀在前（己土七杀在戊土正官之前）→ 婚前失身；己卯流年与日柱天克地冲 → 不能结婚。",
+   "tags": [
+    "婚姻",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-010",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 10,
+   "sex": "乾造",
+   "pillars": "乙巳　丁亥　乙酉　乙酉",
+   "summary": "巳中戊土正财被冲，再合入妻宫（巳酉暗合）→ 对象是跟人离开后再与他合的「二手」；驿马逢冲在年月 → 少年时多次搬家。",
+   "tags": [
+    "婚姻",
+    "财富",
+    "神煞"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-011",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 11,
+   "sex": "坤造",
+   "pillars": "乙巳　癸未　己丑　甲戌",
+   "summary": "夫星（乙木）在年月柱而无法合入夫宫，月日夫星被冲 → 最少经二三次恋爱才能结婚；夫宫受冲 → 可早婚或同居；兄弟宫逢冲 → 兄弟姐妹有折损。",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-012",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 12,
+   "sex": "坤造",
+   "pillars": "戊申　甲寅　己巳　己巳",
+   "summary": "天干甲木正官与戊、己土比劫形成克合，二者皆与日干己土相争；地支巳申合、寅申冲，皆与正官夫星有关 → 感情呈三角。",
+   "tags": [
+    "婚姻",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-013",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 13,
+   "sex": "女命（求子案）",
+   "pillars": "癸丑　乙丑　辛酉　己丑",
+   "summary": "2007 年春节登门，开口断「你是为生子女的事而来」；八字无官、一片寒湿，似婚不顺、生育难，然身旺印旺、财与食伤为喜用、官杀为忌而不见 → 反主婚姻美满；印星重重又寒湿 → 「印多老无子」；1998 丁丑年结婚；1998–2007 戊辰运，辰为子女星之墓地，命局子女星癸水藏丑受克 → 此运有子亦难养；2008 戊子年转己巳运，局由寒转暖、子女星不再入墓，流年子水为子女星现、子丑合动子女宫 → 2008 年可得子；建议 2007 怀孕、2",
+   "tags": [
+    "婚姻",
+    "财富",
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-014",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 14,
+   "sex": "男命（测父伤）",
+   "pillars": "丙戌　甲午　丁巳　丙午",
+   "summary": "2005 年冬其子来测父，断「你是为令尊受伤的事而来」；此造专旺格，财官为忌——财主克妻、克父、破财、病伤，官杀主口舌、官灾、克子女、损名；日主已过花甲，故病伤可能大；2005 年刚交庚子大运，为破格运，凶灾多应在交运第一年；此年大运与时柱天克地冲，时柱主老年限运，限运逢冲更凶；岁运遇克多主病、遇冲多主伤，此命天干克而地支冲、大运看地支 → 以伤断。",
+   "tags": [
+    "婚姻",
+    "财富",
+    "官贵事业",
+    "六亲",
+    "健康灾祸",
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-015",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 15,
+   "sex": "男命（测升官）",
+   "pillars": "辛亥　辛丑　乙巳　丙戌",
+   "summary": "2004 年初登门，断此造太弱格（假从），取财官土金为用；前十行戊戌运为财运 → 与富贵有缘；2004 年交丁酉运，酉为官 → 后十年官运亨通；甲申年申中金为官杀，大运与命局巳酉丑三合金局、岁运申酉戌三会金局，官杀旺极 → 必有提拔之喜，铁口直断「你一定是为升官的事而来」，并言「今年升、明年还升」；反馈：不到一个月由县局股长升正局长，连升两级；2005 年升副县长。",
+   "tags": [
+    "财富",
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-016",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 16,
+   "sex": "乾造",
+   "pillars": "丙申　辛丑　戊戌　甲寅",
+   "summary": "诀「戊戌日元斗牛生，小大寒中需翼星」；年月甲丙映照 → 祖上本吉、得力甚重；然月干见辛，丙辛相逼而弃戊 → 出身贫寒、不得祖力；戊土自坐戌，戌藏丁、丙与戊同宗，丙辛相见 → 母亲多能而淫，须「吃两井水」方安（实为母改嫁）；戊土坐戌生丑、时归甲寅 → 白手成家、自打江山，中年大发武贵；壬寅运壬寅年母外遇、与父离婚；癸卯运甲寅年，族亲任村支书打通关系，政审过关应征入伍；甲辰运最苦（腊月戊土以巾诀最不宜见辰），工作艰苦、常外出作业；乙巳、丙午",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-017",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 17,
+   "sex": "乾造",
+   "pillars": "丁未　己酉　己亥　己巳",
+   "summary": "诀「八字日干本原多，因财致祸出罗嗦」；丙午运、乙亥年犯强奸罪，5 月 24 日被捕、8 月 8 日判决，有期徒刑 3 年。",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-018",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 18,
+   "sex": "乾造",
+   "pillars": "丁酉　癸丑　辛卯　丁酉",
+   "summary": "己酉运、丙子年犯重婚罪，2 月 1 日被捕、6 月 20 日判决，有期徒刑 1 年。",
+   "tags": [
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-019",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 19,
+   "sex": "乾造",
+   "pillars": "戊午　壬戌　庚午　甲申",
+   "summary": "诀「沐浴重叠见官星，必犯官灾狱囚中」；癸亥运、丙子年犯强奸罪，5 月 13 日被捕、9 月 16 日判决，有期徒刑 1 年半。",
+   "tags": [
+    "官贵事业",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-020",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 20,
+   "sex": "坤造",
+   "pillars": "壬寅　壬寅　丙申　丙申",
+   "summary": "诀「二十三日犯哭星，坤命生逢克夫凶；不论贫贱与荣华，遇此八字铁断她」；夫在癸亥运中事业大展，由派出所所长升市公安局副局长兼看守所所长，名利双收；戊戌运、辛巳年 3 月，夫因经济问题被检察机关「双规」，多方活动后免于刑狱，以「双开」告终。",
+   "tags": [
+    "婚姻",
+    "官贵事业",
+    "健康灾祸",
+    "名气"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-021",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 21,
+   "sex": "坤造",
+   "pillars": "庚寅　戊寅　乙巳　丙戌",
+   "summary": "甲戌运、戊辰年 1 月，夫出任社办煤矿矿长，家运自此大好；癸酉运、庚辰年 10 月 29 日巳时，夫因涉嫌经济贪污被刑拘，2001 年判有期徒刑 8 年；另诀「双虎排下，饿虎出」。",
+   "tags": [
+    "婚姻"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-022",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 22,
+   "sex": "坤造",
+   "pillars": "壬辰　癸亥　乙丑　戊寅",
+   "summary": "乙木坐丑（牛为断木之金），年时辰寅「龙虎两头钳」，前运土金并连；巾诀「断木之金怕逢虎，必有体痕多疾苦」→ 必经历死里逃生之难（反馈：42 岁前三次险死）；丙午运、壬午年 1 月丧夫；乙巳运、甲申年做胆囊手术，同年女儿车祸身亡。",
+   "tags": [
+    "婚姻",
+    "六亲",
+    "健康灾祸"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第一单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-023",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 23,
+   "sex": "",
+   "pillars": "癸巳　甲子　辛亥　丁酉",
+   "summary": "食神生财、日坐财星，运入财地则发。（书内页 15，例 1）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-024",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 24,
+   "sex": "",
+   "pillars": "乙巳　辛巳　丁卯　己酉",
+   "summary": "身强食神卫财、伤官生财，命到凤凰台定发大财。（书内页 15，例 2）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-025",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 25,
+   "sex": "",
+   "pillars": "癸巳　辛酉　甲申　丁卯",
+   "summary": "身旺食伤生财，晚运东方家运好转、弃农经商致富。（书内页 16，例 3）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-026",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 26,
+   "sex": "",
+   "pillars": "壬午　乙巳　甲申　乙丑",
+   "summary": "日主强旺、印比帮身，用神有力，行运无忌主大富。（书内页 16，例 4）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-027",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 27,
+   "sex": "",
+   "pillars": "戊戌　壬戌　壬戌　丙午",
+   "summary": "偏财透干、财库重重，运合财库局必发百万之财。（书内页 16，例 5）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-028",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 28,
+   "sex": "",
+   "pillars": "辛巳　丁酉　丁酉　辛丑",
+   "summary": "金旺火弱，运走木火发大财。（书内页 17，例 6）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-029",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 29,
+   "sex": "",
+   "pillars": "戊戌　己未　甲辰　乙亥",
+   "summary": "甲木身旺、财星当令，用神有力，做工程发财。（书内页 17，例 7）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-030",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 30,
+   "sex": "",
+   "pillars": "壬午　乙巳　丁丑　丙午",
+   "summary": "日主坐库为自坐财库，财运至金水之地发财。（书内页 17，例 8）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-031",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 31,
+   "sex": "",
+   "pillars": "戊申　丙辰　丁卯　甲辰",
+   "summary": "身旺印生、伤官去劫用财，独商致富。（书内页 17，例 9）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-032",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 32,
+   "sex": "",
+   "pillars": "戊戌　甲寅　癸丑　乙卯",
+   "summary": "身旺食伤生财又有财库，运走南方肯定大发。（书内页 18，例 10）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-033",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 33,
+   "sex": "",
+   "pillars": "壬寅　壬子　壬午　癸卯",
+   "summary": "身旺比重、食伤生财，独财能招千金。（书内页 18，例 11）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-034",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 34,
+   "sex": "",
+   "pillars": "丙午　庚寅　辛酉　戊戌",
+   "summary": "身旺财有根，财官印成局流向日主，行财运发财。（书内页 18，例 12）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-035",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 35,
+   "sex": "",
+   "pillars": "甲申　辛未　丁丑　壬子",
+   "summary": "日坐财库被冲开，资产亿万——财库不冲不能大富。（书内页 19，例 13）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-036",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 36,
+   "sex": "",
+   "pillars": "丙午　庚寅　丁巳　辛丑",
+   "summary": "丑为财库、原局不逢刑冲，为普通职员而收入高。（书内页 19，例 14）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-037",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 37,
+   "sex": "",
+   "pillars": "庚戌　丙戌　丁卯　辛丑",
+   "summary": "财库被刑开而财被劫，为他人创造财富。（书内页 19，例 15）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-038",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 38,
+   "sex": "",
+   "pillars": "丙戌　乙未　甲申　壬申",
+   "summary": "金逢玄武、食伤生财，行运东方得财数十万，一生平安。（书内页 19，例 16）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-039",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 39,
+   "sex": "",
+   "pillars": "乙未　己卯　丁丑　庚戌",
+   "summary": "身旺伤官生财，行东方木运发财。（书内页 19，例 17）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-040",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 40,
+   "sex": "",
+   "pillars": "戊辰　己未　庚午　丁亥",
+   "summary": "月令财库、食神坐禄，地支三合含正偏财，运交正运必发。（书内页 20-21，例 18）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-041",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 41,
+   "sex": "",
+   "pillars": "戊申　己未　甲申　戊辰",
+   "summary": "身弱有财、天定助之，从财而富，大运交印运发家。（书内页 22-23，例 19）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-042",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 42,
+   "sex": "",
+   "pillars": "甲寅　甲戌　庚戌　丁丑",
+   "summary": "庚金秋生为正官格，食伤生财，主仁义直爽、阳刚义气。（书内页 24-25，例 20）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-043",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 43,
+   "sex": "",
+   "pillars": "己卯　戊辰　甲子　壬申",
+   "summary": "财星得地、水润木发，不失富贵。（书内页 26，例 21）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-044",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 44,
+   "sex": "",
+   "pillars": "丙申　壬辰　甲子　丙寅",
+   "summary": "食禄归时、青云得路，时逢禄马为真吉星。（书内页 26，例 22）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-045",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 45,
+   "sex": "",
+   "pillars": "己亥　戊辰　甲子　丙寅",
+   "summary": "财气通门户、食禄归时，主人出身官宦之家。（书内页 27，例 23）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-046",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 46,
+   "sex": "",
+   "pillars": "丙午　戊戌　甲申　乙丑",
+   "summary": "财入门户、火有根，运入东行发富真。（书内页 27，例 24）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-047",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 47,
+   "sex": "",
+   "pillars": "己酉　甲戌　甲子　癸酉",
+   "summary": "甲己化财、戌月生，年月两头夹官星，行限火土东方地。（书内页 27，例 25）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-048",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 48,
+   "sex": "",
+   "pillars": "壬寅　辛亥　甲子　己巳",
+   "summary": "食禄两头钳、不失一富命；戊申运驿马逢财为生意人。（书内页 28，例 26）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-049",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 49,
+   "sex": "",
+   "pillars": "戊午　乙卯　甲申　戊辰",
+   "summary": "偏财年时两头钳、不失一富命，杀星羊刃而财得地。（书内页 28，例 27）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-050",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 50,
+   "sex": "",
+   "pillars": "己未　甲戌　甲戌　戊辰",
+   "summary": "戊土透干先论富，不论何字先看库，北库入户财气真。（书内页 28，例 28）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-051",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 51,
+   "sex": "",
+   "pillars": "辛卯　戊戌　甲戌　癸酉",
+   "summary": "正官正印两头钳、贵气已露，行程若朝阳位则贵。（书内页 29，例 29）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-052",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 52,
+   "sex": "",
+   "pillars": "庚戌　戊子　庚寅　甲申",
+   "summary": "庚金生子月仍取丁甲，丙丁须临寅巳午。（书内页 29-30，例 30）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-053",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 53,
+   "sex": "",
+   "pillars": "甲寅　癸酉　辛巳　戊子",
+   "summary": "食伤生财、财富可达千万，学历仅专科，晚年防肝胆病与丧亲。（书内页 31-34，例 31）",
+   "tags": [
+    "财富"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第二单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-054",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 54,
+   "sex": "",
+   "pillars": "乙亥　己丑　癸巳　丁巳",
+   "summary": "食神制杀、英雄独压万人，马奔边塞为清贵。（书内页 35，例 1）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-055",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 55,
+   "sex": "",
+   "pillars": "己卯　丁卯　戊辰　甲戌",
+   "summary": "杀透官藏、官杀混杂，劫煞被合而留官。（书内页 35，例 2）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-056",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 56,
+   "sex": "",
+   "pillars": "庚寅　癸未　甲戌　戊子",
+   "summary": "财星生官、印星通身，无食伤破坏故有官运。（书内页 36，例 3）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-057",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 57,
+   "sex": "",
+   "pillars": "丙戌　辛卯　己亥　丁卯",
+   "summary": "官星生印、印流入日主，变性不破格为官贵。（书内页 36，例 4）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-058",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 58,
+   "sex": "",
+   "pillars": "丙午　壬辰　甲申　壬申",
+   "summary": "劫干杀化印，不富则贵；双壬双丙主兴名。（书内页 36，例 5）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-059",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 59,
+   "sex": "",
+   "pillars": "庚戌　庚辰　甲申　甲子",
+   "summary": "才华横溢，杀星有印，不富则贵。（书内页 37，例 6）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-060",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 60,
+   "sex": "",
+   "pillars": "甲申　壬申　戊申　己未",
+   "summary": "甲木合己化土，食神重重、伤官伤尽。（书内页 37，例 7）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-061",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 61,
+   "sex": "",
+   "pillars": "甲午　乙亥　甲戌　丙寅",
+   "summary": "原局无官星，时干丙火引化，伤官成局。（书内页 37，例 8）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-062",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 62,
+   "sex": "",
+   "pillars": "丙戌　庚寅　癸酉　戊午",
+   "summary": "官贵在时上一位并坐羊刃，无食伤破格。（书内页 38，例 9）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-063",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 63,
+   "sex": "",
+   "pillars": "甲申　癸酉　甲辰　辛未",
+   "summary": "年月刃强、扶正印流向日主，实为官贵之格。（书内页 38，例 10）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-064",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 64,
+   "sex": "",
+   "pillars": "己亥　丙寅　甲戌　甲子",
+   "summary": "丙火坐月长生，命主出身贵门。（书内页 38，例 11）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-065",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 65,
+   "sex": "",
+   "pillars": "庚子　戊寅　甲戌　丙寅",
+   "summary": "双寅夹日、时归食禄，青云得路，名利双收。（书内页 39，例 12）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-066",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 66,
+   "sex": "",
+   "pillars": "己丑　丙寅　甲戌　庚午",
+   "summary": "运入癸亥科甲及第，甲子运登大魁。（书内页 39，例 13）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-067",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 67,
+   "sex": "",
+   "pillars": "壬寅　辛亥　甲子　丙寅",
+   "summary": "十月用木，禄地两头居，官印两清。（书内页 39，例 14）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-068",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 68,
+   "sex": "",
+   "pillars": "庚子　己丑　甲子　丙寅",
+   "summary": "食神制杀，丙戌运发财，乙卯运晋升副处级。（书内页 40，例 15）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-069",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 69,
+   "sex": "",
+   "pillars": "乙卯　乙丑　甲子　丙寅",
+   "summary": "丙寅食禄归巢、青云得路，丙戌运立业。（书内页 40，例 16）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-070",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 70,
+   "sex": "",
+   "pillars": "庚辰　己丑　甲子　丙寅",
+   "summary": "壬辰运顺利，甲午、丙寅运晋升局级领导。（书内页 40，例 17）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-071",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 71,
+   "sex": "",
+   "pillars": "壬午　辛亥　戊寅　丁巳",
+   "summary": "丁巳印星贴身透出化杀，官星得有源。（书内页 41，例 18）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-072",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 72,
+   "sex": "",
+   "pillars": "丙子　辛丑　乙未　戊寅",
+   "summary": "丙火暖局合杀、食伤合杀，为某市政法委副书记。（书内页 41，例 19）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-073",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 73,
+   "sex": "",
+   "pillars": "己巳　己巳　甲子　壬申",
+   "summary": "支独杀神清，杀生印、印生身，龙墀高步。（书内页 42，例 20）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-074",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 74,
+   "sex": "",
+   "pillars": "壬午　庚戌　丙申　甲午",
+   "summary": "喜杀而食神制杀，四柱官印无损，主处级干部。（书内页 42，例 21）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-075",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 75,
+   "sex": "",
+   "pillars": "己巳　甲寅　乙酉　癸未",
+   "summary": "将关群凶自败，年干己土偏财坏印。（书内页 42，例 22）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-076",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 76,
+   "sex": "",
+   "pillars": "壬申　辛亥　甲戌　壬申",
+   "summary": "甲寅运后仕途一路高升，七杀枭印两头居。（书内页 43，例 23）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-077",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 77,
+   "sex": "",
+   "pillars": "壬戌　壬子　甲戌　癸酉",
+   "summary": "壬癸透干、地支双戌止水，运入南地必有一番作为。（书内页 43，例 24）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-078",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 78,
+   "sex": "",
+   "pillars": "戊子　甲寅　戊寅　壬子",
+   "summary": "火土为喜用、可生助日主，为某市副厅级官员。（书内页 43，例 25）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-079",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 79,
+   "sex": "",
+   "pillars": "辛亥　庚寅　辛巳　甲午",
+   "summary": "身强财旺，喜食神制官，刚强果断。（书内页 44-47，例 26）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-080",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 80,
+   "sex": "",
+   "pillars": "甲子　丙寅　甲子　丙寅",
+   "summary": "身坐正印、食禄夹日，一生为贫贱之闲命。（书内页 48，例 27）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-081",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 81,
+   "sex": "",
+   "pillars": "丁未　壬寅　甲子　丙寅",
+   "summary": "时归食禄、火木通明，主富贵长寿。（书内页 48，例 28）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-082",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 82,
+   "sex": "",
+   "pillars": "辛丑　癸巳　甲子　丙寅",
+   "summary": "官印两清、青云得路，一生名利双全。（书内页 48，例 29）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-083",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 83,
+   "sex": "",
+   "pillars": "乙亥　壬午　甲子　丙寅",
+   "summary": "身坐子水、月干透壬，命局复杂多波折。（书内页 49，例 30）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-084",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 84,
+   "sex": "",
+   "pillars": "己酉　壬申　甲子　丙寅",
+   "summary": "杀印相生、坐禄归时，一生名利皆有成。（书内页 49，例 31）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-085",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 85,
+   "sex": "",
+   "pillars": "癸未　辛酉　甲申　丙寅",
+   "summary": "财星生杀克身，前三步大运一生坎坷。（书内页 49，例 32）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-086",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 86,
+   "sex": "",
+   "pillars": "癸未　庚申　甲子　丙寅",
+   "summary": "杀星化印、透杀禄，名达财丰真贵族。（书内页 50，例 33）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-087",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 87,
+   "sex": "",
+   "pillars": "甲寅　癸酉　甲子　丙寅",
+   "summary": "食禄归时、木火通明，科甲有准、仕途荣。（书内页 50，例 34）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-088",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 88,
+   "sex": "",
+   "pillars": "庚辰　丁亥　甲子　甲子",
+   "summary": "命主出身富贵之家，早入政坛，官居要职。（书内页 50，例 35）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-089",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 89,
+   "sex": "",
+   "pillars": "丁未　庚戌　甲子　戊辰",
+   "summary": "戌土狱地贵人少，丁火庚出仕途好。（书内页 51，例 36）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-090",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 90,
+   "sex": "",
+   "pillars": "乙未　丁亥　甲戌　庚午",
+   "summary": "透丁逢庚贵显，行限南地必大显功名。（书内页 51，例 37）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-091",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 91,
+   "sex": "",
+   "pillars": "丙子　庚子　甲戌　丁卯",
+   "summary": "寒木向阳是贵星，暖土异路名利扬。（书内页 51，例 38）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-092",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 92,
+   "sex": "",
+   "pillars": "庚子　庚辰　甲戌　丙寅",
+   "summary": "此命身为长子，仕途一路顺畅，现任某镇党委书记。（书内页 51，例 39）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-093",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 93,
+   "sex": "",
+   "pillars": "戊午　甲寅　甲子　戊辰",
+   "summary": "木火通明，必能仕途顺畅而显贵。（书内页 52，例 40）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-094",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 94,
+   "sex": "",
+   "pillars": "己酉　丙寅　甲子　戊辰",
+   "summary": "甲子寅月，命为长子，名利皆有。（书内页 52，例 41）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-095",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 95,
+   "sex": "",
+   "pillars": "壬午　乙巳　甲子　甲戌",
+   "summary": "食杀暗藏、生绿地，文武富贵不须疑。（书内页 52，例 42）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-096",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 96,
+   "sex": "",
+   "pillars": "癸卯　辛酉　甲子　己巳",
+   "summary": "正气官星得令，运入丁巳仕途通达。（书内页 53，例 43）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-097",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 97,
+   "sex": "",
+   "pillars": "甲寅　丙寅　甲申　庚午",
+   "summary": "甲坐中杀、身有根，运入南地富贵真。（书内页 53，例 44）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-098",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 98,
+   "sex": "",
+   "pillars": "丙午　癸巳　甲戌　甲子",
+   "summary": "丙申运官运亨通，飞黄腾达。（书内页 54，例 45）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-099",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 99,
+   "sex": "",
+   "pillars": "壬寅　己酉　甲戌　丙寅",
+   "summary": "阳刃驾杀，一生最忌庚申，辰戌往来有灾祸。（书内页 54，例 46）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-100",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 100,
+   "sex": "",
+   "pillars": "癸亥　戊午　甲戌　甲子",
+   "summary": "五行连环、纳音真，一生富贵不用论。（书内页 54，例 47）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-101",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 101,
+   "sex": "坤造",
+   "pillars": "庚申　己卯　甲申　乙丑",
+   "summary": "出身官府家庭；女命杀星自坐禄，享富贵但克夫伤子。（书内页 55，例 48）",
+   "tags": [
+    "官贵事业",
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-102",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 102,
+   "sex": "坤造",
+   "pillars": "癸卯　丁巳　甲戌　壬申",
+   "summary": "坤命印星两头钳，印绶逢生、子难求，招螟蛉。（书内页 55，例 49）",
+   "tags": [
+    "官贵事业",
+    "婚姻",
+    "六亲"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-103",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 103,
+   "sex": "",
+   "pillars": "丙午　丁酉　丁酉　己酉",
+   "summary": "身强可任财官，有贵人、文昌，但内部关系不好，家庭有摩擦。（书内页 55，例 50）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-104",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 104,
+   "sex": "",
+   "pillars": "庚子　丁亥　癸卯　丁巳",
+   "summary": "食伤旺、官星藏且被伤，八字无官运，一生不贵。（书内页 58，例 51）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-105",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 105,
+   "sex": "",
+   "pillars": "甲午　癸酉　癸巳　癸亥",
+   "summary": "比劫重叠当令而旺、伤官透出，命里无正官，故不能当官。（书内页 59，例 52）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-106",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 106,
+   "sex": "",
+   "pillars": "甲午　壬申　壬寅　甲辰",
+   "summary": "一杀弱而受食伤重克，制杀太过，一生怀才不遇，不能当官。（书内页 59，例 53）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-107",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 107,
+   "sex": "",
+   "pillars": "辛卯　甲午　庚寅　丁亥",
+   "summary": "身弱无印、官星贴身相克，官印与日主生化无情，难当官。（书内页 59，例 54）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-108",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 108,
+   "sex": "",
+   "pillars": "辛卯　丁酉　甲戌　丁卯",
+   "summary": "柱中伤官见官、官透伤也透，官星被伤，故不能当官。（书内页 59，例 55）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-109",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 109,
+   "sex": "",
+   "pillars": "己丑　丙子　己亥　丁卯",
+   "summary": "身旺忌印、印星重叠，杀星反生忌神，生化无情，不能当官。（书内页 59，例 56）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-110",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 110,
+   "sex": "",
+   "pillars": "甲辰　辛未　丙戌　戊戌",
+   "summary": "食伤重泄日主太过，印星有克无生，官星不现，不能当官。（书内页 59，例 57）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-111",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 111,
+   "sex": "",
+   "pillars": "戊戌　己未　丁巳　癸卯",
+   "summary": "一杀弱受食伤重克、杀星无根而朽，故不是当官的命。（书内页 59，例 58）",
+   "tags": [
+    "官贵事业"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第三单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-112",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 112,
+   "sex": "",
+   "pillars": "癸未　乙卯　庚午　癸巳",
+   "summary": "此八字财官旺走子亥运水生起卯木财星此运“穷二白行戌运死了老婆行己酉运生活有些好转再娶的老婆也有钱（书内页 60，例 1）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-113",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 113,
+   "sex": "",
+   "pillars": "戊戌　庚申　丁亥　戊申",
+   "summary": "此造则旺伤官旺有官泄又不能从身弱不担财故成穷命（书内页 61，例 2）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-114",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 114,
+   "sex": "",
+   "pillars": "戊戌　丁巳　癸丑　乙卯",
+   "summary": "此造则旺官旺是穷命走壬戌大运门户被合外出远方做生意破财20余万（书内页 61，例 3）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-115",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 115,
+   "sex": "",
+   "pillars": "辛丑　丁酉　乙巳　乙酉",
+   "summary": "此造满盘七杀是穷命欠债度日（书内页 61，例 4）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-116",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 116,
+   "sex": "",
+   "pillars": "甲辰　辛未　丙戌　戊戌",
+   "summary": "此造满局食伤而身弱不能胜财用印来生身又被财犀所坏星不能为我所用故为贫命（书内页 61，例 5）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-117",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 117,
+   "sex": "",
+   "pillars": "己丑　甲戌　甲申　壬申",
+   "summary": "此造身弱忌杀而财犀当令滋杀克身又财合喜用神而化忌神是财多身弱不能担财的命九三年离婚后终日借酒浇愁以致酒〗丧失劳动能力贫病交加困不堪者支逢一杀之故（书内页 61，例 6）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-118",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 118,
+   "sex": "",
+   "pillars": "庚寅　辛巳　乙巳　壬午",
+   "summary": "此造满局食伤而官杀并透克泄并见日主太弱必以比劫为用神身弱不能任财故为贫命该人近些年撇家舍业到处奔波求非但没有挣到钱反而到外欠债又因行骗入牢出狱后又离婚现在仍为发大则而在苦心奔波之中（书内页 61，例 7）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财",
+    "官非",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-119",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 119,
+   "sex": "",
+   "pillars": "甲午　乙亥　庚午　戊寅",
+   "summary": "此造财多身弱日主清枯故为贫命中运戊寅己卯二十年运支运干生身无力生意场上破败无常财源难聚晚运要好于中运但再好也不会成为高翁（书内页 62，例 8）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-120",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 120,
+   "sex": "",
+   "pillars": "甲辰　庚午　癸巳　己未",
+   "summary": "此造癸水日干支会火局财多身弱柱中财星见杀身弱用印财星坏印财星反不真之象故为贫命（书内页 62，例 9）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-121",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 121,
+   "sex": "",
+   "pillars": "己丑　甲戌　甲申　壬申",
+   "summary": "甲木生于戌月不得月令秋土重重财星当令官杀得时而旺日主无根无气必要比肩来帮身抑财挡杀柱中财星反不真身太弱而财重日主不胜财逢财忌杀原有杀十有九贫六（渊海子平附子平真诠《挚要捷驰玄妙诀》（书内页 62，例 10）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-122",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 122,
+   "sex": "",
+   "pillars": "癸巳　甲寅　甲辰　丙寅",
+   "summary": "此造比肩旺盛财星虚弱不透走丁巳戊午大运穷的叮当响吃不饱饭己未运好转（书内页 63，例 11）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-123",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 123,
+   "sex": "",
+   "pillars": "癸丑　壬戌　庚子　庚辰",
+   "summary": "癸丑壬戌庚子庚辰此造行庚申大运庚午流年比劫遇旺地因赌输钱而盗窃被捕判刑此正应：比劫重重逢比劫破财官非（书内页 63，例 12）",
+   "tags": [
+    "穷命",
+    "财",
+    "官非"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-124",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 124,
+   "sex": "",
+   "pillars": "戊子　甲寅　甲子　乙丑",
+   "summary": "此造：“甲乙高透戊土孤一生贫寒命必苦运行南地何所宜财来财去费心机”初运乙卯备受艰辛六亲遭难流年癸卯丧父丧母：后运火土终因比劫根深虽衣食胜前赂终操劳辛苦诀官：“甲子日元寅月生乙木劫财（书内页 63，例 13）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-125",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 125,
+   "sex": "",
+   "pillars": "乙巳　甲申　甲子　戊辰",
+   "summary": "此命造比劫重重劳碌风霜之命无疑劫赐七杀年月显出身贫寒命主的性格趣于男性化豪爽侠义常常招怨树敌好心没好报人运丙戌流年丁丑结婚》丁亥大运丙寅流年生一男孩儿未成观其命局支会水局》运人亥水（书内页 63，例 14）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-126",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 126,
+   "sex": "",
+   "pillars": "乙未　甲申　乙卯　戊寅",
+   "summary": "此造比肩劫财五重木坚金缺一官难制群劫财星明现必受其殃是满局比劫而财官轻的格局一生难以发福（书内页 64，例 15）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-127",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 127,
+   "sex": "",
+   "pillars": "壬辰　癸卯　乙卯　甲申",
+   "summary": "壬辰癸卯乙卯甲申伍此造比劫印星两旺本应用财来坏印生官但印星根深难去财官远隔局中比肩劫财四重又当令而旺不如用官来得更直接因财星和用神远隔难生其官官星休囚无力难制群劫所以财星必受其殃不（书内页 64，例 16）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-128",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 128,
+   "sex": "",
+   "pillars": "癸巳　庚申　癸丑　癸丑",
+   "summary": "此造比印两旺是身旺用财格财星不但和日主远隔而且局中无木使用神财星有克无生又被申金合住局中生化无情即使寅运冲去合神怎奈支逢二杀耗尽财星之气所谓逢财看杀‰意即在子女身上要耗尽钱财难有积（书内页 64，例 17）",
+   "tags": [
+    "穷命",
+    "婚",
+    "子女",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-129",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 129,
+   "sex": "",
+   "pillars": "己丑　庚午　辛未　丙申",
+   "summary": "此造因原命局比印两旺而财星不现所以即使岁运逢财也不会好到哪去按说四十一岁交乙丑偏财大运财能生助用神官星官能制劫运支冲开未土财库应发财或起码财运顺利实则不然从交运至今的八年中该人先离（书内页 64，例 18）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-130",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 130,
+   "sex": "",
+   "pillars": "戊申　辛酉　甲子　庚午",
+   "summary": "1968年8月30日午时64（书内页 64，例 19）",
+   "tags": [
+    "穷命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-131",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 131,
+   "sex": "",
+   "pillars": "戊申　辛酉　甲子　庚午",
+   "summary": "观其八字官杀夹身中酉根深印星遭冲凶机内外己伏初运壬戌申酉戌会一方金局流年戊午正月29日放学回家途中和同学打斗横穿马路不幸车祸身亡（书内页 65，例 20）",
+   "tags": [
+    "穷命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-132",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 132,
+   "sex": "",
+   "pillars": "庚辰　己卯　甲子　辛未",
+   "summary": "此命“白虎两头钳己辰又扶庚辛金一生穷困灾难真”初运逢土金刑耗破败可知大运壬午流年庚戌出车祸被一农用拖拉机伤击头部而亡（书内页 65，例 21）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-133",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 133,
+   "sex": "",
+   "pillars": "丁丑　乙巳　甲子　乙丑",
+   "summary": "观其八字“劫财伤官临年月祖上贫穷无家业\"命主出身贫寒“断木之金两头钳兄弟姐妹难团圆亲戚朋友靠不住白家白管自家衣\"命主风霜劳碌年复一年兄弟姐妹互不来往辛亥人运己是疾劳成疾大运壬子流年（书内页 65，例 22）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-134",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 134,
+   "sex": "",
+   "pillars": "甲午　庚午　甲子　庚午",
+   "summary": "1954年6月8日午时八字：甲午庚午甲子庚午大运：1辛未11壬中癸酉甲戌乙亥（书内页 65，例 23）",
+   "tags": [
+    "穷命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-135",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 135,
+   "sex": "",
+   "pillars": "",
+   "summary": "“死绝双杀来夹身一子三午杯水崭生贫贱又无义命中必定带残疾”命主在大运辛未流年乙未6月因患疾高烧不退至使双目失明大运壬申学了一套盲人点穴按摩的技术以此为生计由于命主贪财无义至使门庭一｜四柱待补：原书此处只印一句口诀、四柱页边残缺，高 dpi 复核不足采信，留待回原书补（书内页 66，例 24）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "索引级（四柱待补）"
+  },
+  {
+   "id": "S-GD-136",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 136,
+   "sex": "",
+   "pillars": "己酉　庚午　甲子　甲戌",
+   "summary": "“杀星刃财居年月出身贫困不用说”命主出身寒命运坎坷刚而不义勇而无谋大运戊辰流年庚午因分脏物而被捕入狱流年壬申释放大运丁卯流年癸因酒后闹事伤人再次入狱流年庚辰儿子因感冒引起急性肺炎不（书内页 66，例 25）",
+   "tags": [
+    "穷命",
+    "子女",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-137",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 137,
+   "sex": "",
+   "pillars": "戊子　己未　甲子　庚午",
+   "summary": "1948年7月3日午时八字：戊子己未甲子庚午大运：10庚中20辛酉30壬戊40癸亥50甲子00此命局支腹内年月子未穿害日时子午相冲甲己化财透杀凶机内外己伏命主少年染上肺疾至今未愈庚（书内页 66，例 26）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-138",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 138,
+   "sex": "",
+   "pillars": "庚寅　癸未　甲子　甲戌",
+   "summary": "1950年6月14日戌时八字：庚寅癸未甲于甲戌大运：5甲申15乙酉25丙戌35丁亥45戊子55己丑00观其八字双土夹印双甲林立刑丧破耗己注定命主在甲中大运流年甲辰父亲死于肺病大运乙（书内页 67，例 27）",
+   "tags": [
+    "穷命",
+    "婚",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-139",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 139,
+   "sex": "",
+   "pillars": "辛卯　乙未　甲子　甲戌",
+   "summary": "1951年6月20日戌时八字：辛卯乙未甲子甲戌大运：5甲午15癸巳25壬辰35辛卯45庚寅55己丑00观其八字“劫财羊刃透月干此宫六亲必克陷”命主出身贫寒生父喝金子后上吊自缢流年壬（书内页 67，例 28）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-140",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 140,
+   "sex": "",
+   "pillars": "庚子　壬午　丙子　戊子",
+   "summary": "庚子壬午丙子戊子00此造官杀混杂而财星明现地支三子冲一午天干克泄并见故为贫命（书内页 68，例 29）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-141",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 141,
+   "sex": "",
+   "pillars": "壬子　丙午　壬辰　己酉",
+   "summary": "壬子丙午壬辰己酉00这个八字时辰是酉时杀星与印星相配了且透干官星带印也表示学历所以学历较高硕士毕业搞技术（书内页 68，例 30）",
+   "tags": [
+    "穷命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-142",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 142,
+   "sex": "",
+   "pillars": "丁未　壬子　庚午　丙子",
+   "summary": "丁未壬子庚午丙子00此造食伤和官杀两敌日主清枯乃婚姻破败贫病交加之命（书内页 68，例 31）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-143",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 143,
+   "sex": "",
+   "pillars": "甲午　甲戌　癸卯　壬戌",
+   "summary": "似此等愚浊之人命岂所以为命也（书内页 68，例 32）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-144",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 144,
+   "sex": "",
+   "pillars": "己丑　戊辰　辛未　壬辰",
+   "summary": "己丑戊辰辛未壬辰0此造土多土旺印星重重生日主太过五行偏旺壬水伤官本应泄秀怎奈柱中厚土重重无财来救财星不能为我所用为有病无药故为贫命（书内页 68，例 33）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-145",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 145,
+   "sex": "",
+   "pillars": "壬寅　甲辰　戊寅　乙卯",
+   "summary": "壬寅甲辰戊寅乙卯0此造支会东方官星太旺只得弃命从杀以官杀为用混杂财星明现官化财而无财日上太弱也难任其财故为贫（书内页 69，例 34）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-146",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 146,
+   "sex": "",
+   "pillars": "辛卯　庚寅　己卯　乙亥",
+   "summary": "辛卯庚寅己卯乙亥0此造官杀混杂而旺财星明现杀耗财而无财杀重身轻则去滋杀斤为；主历忌故为贫命六劫财宝瓶都忌重刑克六亲必见凶（书内页 69，例 35）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-147",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 147,
+   "sex": "",
+   "pillars": "壬辰　癸丑　甲申　乙丑",
+   "summary": "观其命造甲子日虽时归“库头财”但年月支坐羊刃劫透干始终克害诀言“劫财羊刃多祸殃更迕阳财细推样纵有手艺虽能巧百事终无一事通胆大无谋性格暴冲克刃时凶祸到”火运戊寅流年辛酉春节命主因燃放（书内页 69，例 36）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-148",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 148,
+   "sex": "",
+   "pillars": "乙巳　己丑　甲申　丁卯",
+   "summary": "观其八字甲乙双制戊土父必早人黄泉大运了TI流年癸卯丧父人运乙亥流年己巳白办匚厂流年辛未小小盈利（书内页 69，例 37）",
+   "tags": [
+    "穷命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-149",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 149,
+   "sex": "",
+   "pillars": "乙丑　戊寅　甲申　乙亥",
+   "summary": "甲屮凵元月生年月双透壬癸出身寒之家《刂知初运虽行甲寅乙卯也难免生活困苦丙辰运内火无燃焰之木依然辛贫穷无疑人运了巳」壬相合流年癸些神经出现错乩为治此病负债累累人运戊午流年壬午癸未依然（书内页 70，例 38）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-150",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 150,
+   "sex": "",
+   "pillars": "乙巳　己丑　甲申　丁卯",
+   "summary": "赔钱是必然的观其后运命决是做买卖可以赚钱的人人不识命逆运而行破耗事非也是难免的甲申日元IL月透乙十命破财一生都是财来财去之命（书内页 70，例 39）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-151",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 151,
+   "sex": "",
+   "pillars": "丙戌　壬辰　甲子　乙丑",
+   "summary": "观其八字劫财两头居透财贫寒不须疑命主出身贫寒白幼常受苦受难大运乙亥流年庚子竟饿死在人路边上应诀言：“甲凵寅月怕劫财重重劫财磨难灾运限最怕水木行劫尽财星黄（书内页 71，例 40）",
+   "tags": [
+    "穷命",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-152",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 152,
+   "sex": "",
+   "pillars": "己亥　丙寅　甲子　乙丑",
+   "summary": "观此八字：“比劫旺而立干头一生劳碌多忧愁比劫重重辰戌多刑克六亲不用说\"流年庚戌一月丧父戊寅人运流年癸丧母命主出身贫寒半生求财辛苦艰难度日（书内页 71，例 41）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-153",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 153,
+   "sex": "",
+   "pillars": "丙戌　壬辰　甲子　乙丑",
+   "summary": "一兄早天身为长子一弟弟身患残疾乙木坐且牛山亲上顷卜踹岂能安人运甲午流年戊巾丧父乙未人运戊午流年丧母连年刑耗多端生活倍受艰对应诀言：“最忌天河魁冲刑克六亲耗败凶（书内页 71，例 42）",
+   "tags": [
+    "穷命",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-154",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 154,
+   "sex": "",
+   "pillars": "",
+   "summary": "（本页无独立断语，须回原书）｜四柱待补：原书该例只印生日、未印四柱，留待回原书补（书内页 71，例 43）",
+   "tags": [
+    "穷命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "索引级（四柱待补）"
+  },
+  {
+   "id": "S-GD-155",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 155,
+   "sex": "",
+   "pillars": "庚寅　辛巳　甲申　甲子",
+   "summary": "1950年5月4日子时八字：庚寅辛巳甲申甲子人运：7岁壬午癸未甲申乙酉丙戌了亥戊子0“官杀重重逢二刑刑克六亲命中定”一看此命周白虎张口待食捕庚辛寅巳申三刑居六杀宫位六亲遭刑克无疑大（书内页 72，例 44）",
+   "tags": [
+    "穷命",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-156",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 156,
+   "sex": "",
+   "pillars": "己丑　甲戌　甲子　甲子",
+   "summary": "观其八字“甲己化财戌月生二甲林立且戊刑刑克六亲命中定一生劳緑风霜命\"命上幼时父中年丧母即使行限火十也是刑耗多端无疑（书内页 72，例 45）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-157",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 157,
+   "sex": "",
+   "pillars": "癸卯　乙丑　甲子　癸酉",
+   "summary": "1963八字：癸卯乙丑2月1甲子癸酉72（书内页 72，例 46）",
+   "tags": [
+    "穷命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-158",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 158,
+   "sex": "",
+   "pillars": "庚子　己丑　甲子　甲子",
+   "summary": "此命造年坐七杀必生贫家庚寅辛卯人运命主倍受苦难刑耗并见人运癸巳流年辛未因倒卖假文物被判刑4年流年乙亥出狱应诀叾：“玄武多见怕官杀十个命例九个差（书内页 73，例 47）",
+   "tags": [
+    "穷命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-159",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 159,
+   "sex": "",
+   "pillars": "乙丑　庚辰　甲戌　乙亥",
+   "summary": "观此命局乙坐牛山合庚金必克兄长年透劫财月七杀命主必定生贫家此造长兄克去出身寒窑小学毕业人运戊寅流年戊寅甲寅月甲午日丧父2000年开始外出打匚倍受辛苫观其后运劳禄风霜贫贱之命无疑应诀（书内页 73，例 48）",
+   "tags": [
+    "穷命",
+    "婚",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第四单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-160",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 160,
+   "sex": "",
+   "pillars": "乙巳　己卯　丙戌　壬辰",
+   "summary": "壬水官星入幕本来辰戊相冲库可开可卯戌相合戌不冲辰故此女40岁从没谈过男朋友根本没有找对象的欲望（书内页 75，例 1）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-161",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 161,
+   "sex": "",
+   "pillars": "辛卯　辛丑　丙辰　甲午",
+   "summary": "此女己年过半百是个纯老姑娘从未谈过对象因为财官都在库中盲师算她到63岁走丁未大运冲开丑财厍才能有对象（书内页 75，例 2）",
+   "tags": [
+    "女命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-162",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 162,
+   "sex": "",
+   "pillars": "丁酉　癸卯　乙未　己卯",
+   "summary": "此女八字纯阴年过四十还未结婚与父亲严重不睦其弟弟游手好闲经常犯官非（书内页 75，例 3）",
+   "tags": [
+    "女命",
+    "婚",
+    "官非"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-163",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 163,
+   "sex": "",
+   "pillars": "乙未　己丑　丁丑　癸卯",
+   "summary": "此造J火冬生有乙木制食生身人运一直行东南方所以做中上层行政人员的地位早年丧父四十多岁还未结婚（书内页 75，例 4）",
+   "tags": [
+    "女命",
+    "婚"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-164",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 164,
+   "sex": "",
+   "pillars": "辛卯　辛丑　丁丑　辛丑",
+   "summary": "此造早失父爱母亲改嫁有妇之夫己经离过一次婚但凡论命当重妻财子禄这个“禄”字很重要身太弱而伤重己经是不能享福的命再行禄的大运往往吉处藏凶行禄大运非常忌冲云：襻位逢冲》吉也成凶而地支逢（书内页 76，例 5）",
+   "tags": [
+    "女命",
+    "婚",
+    "财",
+    "官非",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-165",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 165,
+   "sex": "",
+   "pillars": "庚寅　辛巳　乙丑　壬午",
+   "summary": "另一位是农村老家的周师傅这两个人都是祖传盲派批命传人也许命中就有这个机缘从小就和五术之人相近不管在哪居仕都能跟易界人士交上朋友95年寒假回去一天正赶上他给城里来的一个中年妇（书内页 76，例 6）",
+   "tags": [
+    "女命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-166",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 166,
+   "sex": "",
+   "pillars": "乙未　乙酉　丙戌　己丑",
+   "summary": "女人说是就因为肾病严重去年九月离的；我主要想问问我的病什么时候能治好（书内页 77，例 7）",
+   "tags": [
+    "女命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-167",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 167,
+   "sex": "",
+   "pillars": "戊申　甲子　癸酉　丁巳",
+   "summary": "八个字有申酉二金还有巳酉合金印星太多啦年千一个戊土官星高悬坐下无根丁火财星遥隔欲生无力甲木伤官贴身一克坏了格局为什么呢（书内页 79，例 8）",
+   "tags": [
+    "女命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-168",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 168,
+   "sex": "",
+   "pillars": "丁酉　癸卯　甲申　丁卯",
+   "summary": "1957年2月12日卯时八字：丁酉癸卯甲申丁卯79（书内页 79，例 9）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-169",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 169,
+   "sex": "",
+   "pillars": "戊申　戊午　甲戌　乙丑",
+   "summary": "此命出身贫苦初中毕业大运丁巳流年癸亥母亲因突发心肌梗塞而亡大运丙放流年庚午结婚丈夫是个离婚不离家之人两人另找了个地方成婚乙卯运破耗异常丈夫在外不顾家寻花问柳到处鬼混闺女四处打工维持（书内页 80，例 10）",
+   "tags": [
+    "女命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-170",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 170,
+   "sex": "",
+   "pillars": "戊戌　乙丑　壬子　辛丑",
+   "summary": "生于1958年农历腊月二十二丑时八字是：戊戌乙丑壬子辛丑80（书内页 80，例 11）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-171",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 171,
+   "sex": "",
+   "pillars": "丁酉　戊申　癸丑　癸丑",
+   "summary": "这人会给你点钱但不会给你买房（书内页 82，例 12）",
+   "tags": [
+    "女命",
+    "婚",
+    "子女",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-172",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 172,
+   "sex": "",
+   "pillars": "丙子　戊午　丁丑　丁未",
+   "summary": "大女儿离婚啦住在我家二女儿正在闹离婚也住在我家师傅你看能离不；我真是命苦啊三个儿子没有一个成器的不知我前肚做了什么孽老大这么惩罚我我还能有好的时候吗（书内页 83，例 13）",
+   "tags": [
+    "女命",
+    "婚",
+    "子女",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-173",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 173,
+   "sex": "",
+   "pillars": "壬子　丁未　壬子　乙巳",
+   "summary": "其妻在与他结婚前曾和多位异性同居过他本人也风流好色（书内页 84，例 16）",
+   "tags": [
+    "女命",
+    "婚"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-174",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 174,
+   "sex": "",
+   "pillars": "辛丑　丙申　辛卯　乙未",
+   "summary": "此女子为人做填房赵老师说：我至少能找到两例（书内页 84，例 17）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-175",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 175,
+   "sex": "",
+   "pillars": "丁巳　丁未　丙寅　壬辰",
+   "summary": "这个女孩16岁那年初中还没毕业就跟一个外地来的小老板搞上了那个男的比她大20来岁后来被学校开除了家里谁劝也不听据说到在一起鬼混三年自动分手了（书内页 85，例 18）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-176",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 176,
+   "sex": "",
+   "pillars": "壬子　丁未　丁卯　辛丑",
+   "summary": "此女子长的非常漂亮打扮的也非常时髦不到20岁就给一个老板当一奶并生了个女儿三年后被正妻发现楞给骂散了小孩男方要了没过丿L年又找一个比她年龄更大的有妇之夫是台商很有钱男方答应娶她做二（书内页 85，例 19）",
+   "tags": [
+    "女命",
+    "婚",
+    "子女"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-177",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 177,
+   "sex": "",
+   "pillars": "丙申　辛卯　甲戌　戊辰",
+   "summary": "此男人婚前女友被别人夺去此造婚前女友定位在年支中中戊匕中的本气是庚金近临卯为乙木乙庚合所墼女友被夺（书内页 85，例 20）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-178",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 178,
+   "sex": "",
+   "pillars": "癸亥　戊午　壬申　丁未",
+   "summary": "八字合多朋友多妒合争风吃醋多日主虽失令但坐长生（书内页 85，例 21）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-179",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 179,
+   "sex": "",
+   "pillars": "丁巳　甲辰　丁未　癸卯",
+   "summary": "从命局整体看天干上木旺火旺为木火通明地支中有土泄火由于原命局组合比较均衡用神应随行运酌取0我们重点从命局中分析一下日主婚姻趋势此造以时干癸水杀星为夫只在月令辰+中藏一癸水余气为坐支（书内页 86，例 22）",
+   "tags": [
+    "女命",
+    "婚"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-180",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 180,
+   "sex": "",
+   "pillars": "甲辰　壬申　戊子　己未",
+   "summary": "甲辰壬申戊子己未0；有一定命理研究水平的人一看就知道此命是一位己过世的伟人他就符合“印绶伏藏财秉令”之诀他生千1904年还是旧中国父亲娶好丿L个妾他是妾所生的（书内页 87，例 23）",
+   "tags": [
+    "女命",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-181",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 181,
+   "sex": "",
+   "pillars": "癸丑　戊午　壬辰　庚子",
+   "summary": "月支偏財正印未透伏于年支透时干之偏印坐死地不为母此命生于现代母亲是他父亲的第二个妻子（书内页 87，例 24）",
+   "tags": [
+    "女命",
+    "婚",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-182",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 182,
+   "sex": "",
+   "pillars": "乙巳　丙戌　乙丑　庚辰",
+   "summary": "月芝偏財未透干但坐支很强而印星墓于辰上库中母亲是父（书内页 87，例 25）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-183",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 183,
+   "sex": "",
+   "pillars": "乙酉　丙戌　甲寅　丙寅",
+   "summary": "月支财星虽不算太强但盖头伤官生之不弱相对而言印星却不现》也是父亲的第二个妻子所生（书内页 88，例 26）",
+   "tags": [
+    "女命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-184",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 184,
+   "sex": "",
+   "pillars": "己卯　己巳　壬辰　丁未",
+   "summary": "月支财星有伤官生较旺八字无印母亲为父亲第二个妻子（书内页 88，例 27）",
+   "tags": [
+    "女命",
+    "婚",
+    "财",
+    "伤病"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-185",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 185,
+   "sex": "",
+   "pillars": "丙辰　乙未　乙亥　辛巳",
+   "summary": "月令财星虽受克但帮扶多不弱正印伏日支此造不仅是父亲的第二个妻子所生而且是未婚先孕父亲与她母亲怀她之后才与前妻离异正式娶了她母亲（书内页 88，例 28）",
+   "tags": [
+    "女命",
+    "婚",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-186",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 186,
+   "sex": "",
+   "pillars": "戊戌　癸亥　戊申　壬戌",
+   "summary": "财星两合父必双妻月令財星印绶藏也是父亲的第一个妻子所生但此造更特殊他的亲生父亲在有妻室的情况下与他母亲偷情意外怀孕母亲在没办法的情况下肚带着他嫁了别人他本人只知道养父而不知道生父象（书内页 88，例 29）",
+   "tags": [
+    "女命",
+    "婚",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-187",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 187,
+   "sex": "",
+   "pillars": "戊戌　己未　乙巳　丁亥",
+   "summary": "此造亦符合此诀但父亲并没有娶过两个妻子这是因为偏财父亲太旺五行不能平衡不反映父亲多妻而反映父亲短寿因已亥相冲破了父之原神父早亡（书内页 88，例 30）",
+   "tags": [
+    "女命",
+    "婚",
+    "财"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  },
+  {
+   "id": "S-GD-188",
+   "system": "S-GD（扫描集·高德臣）",
+   "book_no": 188,
+   "sex": "",
+   "pillars": "壬子　丙午　壬辰　丁未",
+   "summary": "（本页无独立断语，须回原书）（书内页 88，例 31）",
+   "tags": [
+    "女命"
+   ],
+   "source": "盘叔盲派/ps-anli-ku/references/案例集_高德臣_第五单元.md",
+   "grade": "全文入库"
+  }
+ ]
+}
