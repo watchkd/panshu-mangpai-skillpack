@@ -197,7 +197,7 @@ python tools/check_yingqi.py --all         # 全包巡检，原书命例只作�
 
 | 赞赏码 | 盘叔微信 |
 | :---: | :---: |
-| ![赞赏码](https://cdn.jsdelivr.net/gh/x3747991-ship-it/sanmingtonghui-bazi-skillpack@main/appreciation.jpg) | ![盘叔微信](https://cdn.jsdelivr.net/gh/x3747991-ship-it/weili-qianli-bazi-skillpack@main/wechat_qr.jpg) |
+| ![赞赏码](盘叔盲派/ps-zonglun/references/assets/appreciation.jpg) | ![盘叔微信](盘叔盲派/ps-zonglun/references/assets/wechat_qr.jpg) |
 
 **如果觉得有用，欢迎赞赏支持；想交流命理，扫码添加盘叔微信。**
 
