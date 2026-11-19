@@ -15,6 +15,7 @@
 - **可追溯**：每条断语带规则编号 / 出处块号 / 置信度；跨包冲突按**仲裁 #1–#23**（截止 v1.8 共 **23 项已定裁决**，真源 `ps-zonglun/references/仲裁摘要.md`，顶层《跨包冲突仲裁表》只作索引）+ 总原则兜底，不伪造唯一答案。
 - **不悬空**：正文引用若指向包外原稿，v1.9 起已回填到 `_溯源/`（按子包分区，体检判「溯源区」——**可核对、不作依据**）；确实本地无原稿的，登记在《引用未随包清单.md》。**查不到的文件不得当作依据**。引用体检 `python tools/check_refs.py --strict` 真错须为 0。
 - **不矛盾**：应期不许自相打架——年份与干支须对得上、断语不落到「日」（仲裁 #20）、交运须说干段／支段并存。应期体检 `python tools/check_yingqi.py --strict` 的 R1／R2／R3 须为 0，口径见 `ps-zonglun/references/应期自洽体检报告.md`。
+- **不稀释**：断语不许软成一团——「可能／倾向／视情况」不作主干，不下断必须有举证（四柱不全／时辰校不出／规则库无对应条且已实比 ≥3 条／实况 ≥2 项反向冲突），空亡神煞五行空库墓**只减等不作止断理由**。纪律四条见 `ps-zonglun/SKILL.md`，机检 `python tools/check_ganduan.py --strict` 的 G1／G2／G4 须为 0。
 - **交互流程层**：另设 `ps-zonglun-guide` 使用指引 —— 先锁四柱、再锁背景、出初校命书、实证校准、出终版命书、引导细推后运（断法仍归 ps-zonglun 及各子技能）。
 
 ## 二、全包架构
@@ -37,7 +38,8 @@
 │   ├── mingshu.py               # 命书排印器：命稿抬头＋纸墨 HTML，--lint 拦工程标记，页尾嵌推广块
 │   ├── check_refs.py            # 引用体检：反引号路径四级解析，真错 / 未随包分开报
 │   ├── check_arb.py             # 仲裁体检测：仲裁 #N 引用 vs 真源定义 vs 顶层索引
-│   └── check_yingqi.py          # ★ v1.8 应期体检：R1 年份干支／R2 断语不落日／R3 交运干段支段并存
+│   ├── check_yingqi.py          # ★ v1.8 应期体检：R1 年份干支／R2 断语不落日／R3 交运干段支段并存
+│   └── check_ganduan.py         # ★ v1.9.1 敢断纪律体检：G1 三词作主干／G2 灰止断／G3 多重软化／G4 但书止断
 ├── ps-zonglun-guide/           # ★ 使用指引（交互流程层）：六步论命流程
 │   └── SKILL.md                # 锁四柱→锁背景→初校命书→实证校准→终版命书→细推后运
 ├── 子技能/  (29 个)
@@ -140,6 +142,12 @@ python tools/check_arb.py --strict
 python tools/check_yingqi.py               # 断语文档（批词／命书／体例／范例）
 python tools/check_yingqi.py --strict      # R1 > 0 即非零退出（出门验收用）
 python tools/check_yingqi.py --all         # 全包巡检，原书命例只作「原书记录提示」
+
+# 敢断纪律体检（★ v1.9.1 新增）：把 ps-zonglun「敢断纪律」四条做成机检
+python tools/check_ganduan.py              # 断语文档（批词／命书／体例／范例／报告）
+python tools/check_ganduan.py --strict     # G1／G2／G4 任一 > 0 即非零退出（出门验收用）
+python tools/check_ganduan.py --all        # 全包巡检，SKILL 在讲规则时只作提示
+python tools/check_ganduan.py --self-test  # 造 4 个错例须全抓、断语文档零误报
 ```
 
 **为什么要有这三个**（v1.8 起因）：包里长期存在「引用查不到、裁决两处不同步、应期对不上历法」——
@@ -148,8 +156,10 @@ python tools/check_yingqi.py --all         # 全包巡检，原书命例只作�
 三个体检器把这类问题变成可跑出来的数字：**真错必须 0，未随包必须显式改写**（`check_refs.py` 输出 `WORKSPACE` 一类即为「原工作区文件，未随包」）；
 **断语 R1／R2／R3 全 0 才算过**，原书实录另计「提示」不计门禁。
 
-**分工一句话**：`check_refs.py` 只管「引用指得到吗」，`check_arb.py` 只管「裁决号都对得上吗」，`check_yingqi.py` 只管「应期自洽吗」；
-三者都不判内容对错——内容对不对，归仲裁摘要与人。详见 `盘叔盲派/ps-zonglun/references/应期自洽体检报告.md`。
+**分工一句话**：`check_refs.py` 只管「引用指得到吗」，`check_arb.py` 只管「裁决号都对得上吗」，`check_yingqi.py` 只管「应期自洽吗」，`check_ganduan.py` 只管「断语有没有软掉」；
+四者都不判内容对错——内容对不对，归仲裁摘要与人。详见 `盘叔盲派/ps-zonglun/references/应期自洽体检报告.md`。
+
+**敢断纪律机检口径**（★ v1.9.1）：G1「可能／倾向／视情况」占主干位、G2 写了不下断却不落进四种合法举证情形（四柱不全／时辰校不出／规则库无对应条须 ≥3 条实比／实况冲突须 ≥2 项反向）、G4 拿空亡神煞五行空库墓当真去止断——**三者必须 0**；G3 多重软化只作提示。范围限定（「只断 A、不断具体 B」「流年不断吉凶」）与免责边界不算灰断，脚本已显式放过。
 
 **工具分工一句话**：`paipan.py` 只算结构，不出断语；`mingshu.py` 只排版面，不写断语；
 断语仍然只从 `ps-zonglun` 与二十九个子技能出。**排盘与排印都不是断法，不得替代断法。**
